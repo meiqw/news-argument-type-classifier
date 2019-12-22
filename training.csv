@@ -1,0 +1,607 @@
+ID,Sentence,Micaela,Shantina,Danyi,Gold
+001_0-156,"In the film, ""Girl Interrupted,"" Winona Ryder plays an 18-year-old who enters a mental institution for what is diagnosed as borderline personality disorder.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+001_157-234,The year is 1967 and the country is in turmoil over Vietnam and civil rights.,ASSERTION,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+001_235-330,"While lying on her bed one night and watching TV, she sees a news report about a demonstration.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+001_331-484,"The narrator says something that might apply to today\'s turmoil: ""We live in a time of doubt. The institutions we once trusted no longer seem reliable.""",FACT-TESTIMONY,ASSERTION,ASSERTION,ASSERTION
+001_488-606,"As 2014 ends, the stock market is at record highs but our traditional institutions and self-confidence are in decline.",FACT-TESTIMONY,ASSERTION,FACT-TESTIMONY,FACT-TESTIMONY
+001_610-623,ADVERTISEMENT,NON-ARGUMENT,NON-ARGUMENT,NON-ARGUMENT,NON-ARGUMENT
+001_627-640,ADVERTISEMENT,NON-ARGUMENT,NON-ARGUMENT,NON-ARGUMENT,NON-ARGUMENT
+001_644-732,A Pew Research Center study confirms one trend that has been obvious over several years.,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+001_733-784,"The ""typical"" American family is no longer typical.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+001_785-881,"Just 46 percent of American children now live in homes with their married, heterosexual parents.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+001_882-919,Five percent have no parents at home.,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+001_920-982,"They most likely are living with grandparents, says the study.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+001_986-1146,These startling figures about the decline of the American family contrast with the year 1960 when 73 percent of American children lived in traditional families.,ASSERTION,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+001_1150-1268,A major contributor to this trend has been the assault on marriage and other institutions by the Baby Boom generation.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+001_1268-1526,"It was that generation that promoted cohabitation, no-fault divorce, hatred of the police (they called them ""pigs"" then, too) and disdain for the military and America, spawned not just by the Vietnam War but a life of relative ease unknown to their parents.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+001_1530-1609,The culture bomb dropped by the boomers created fallout still being felt today.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+001_1610-1735,"The two-plus generations born since the Sixties have been infused with the notion of entitlement, victimhood, envy and greed.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+001_1736-1954,"Since the elimination of the draft, young people are no longer expected to serve in the military and so most of them pursue whatever goals they wish with no expectation they should give something back to their country.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+001_1955-2028,It\'s one possible explanation for why we can no longer seem to win wars.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+001_2032-2193,History warns us what happens when empires refuse to teach known values that strengthen societies and help protect them from enemies intent on their destruction.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+001_2197-2304,"The late British diplomat Sir John Glubb wrote a book called ""The Fate of Empires and Search For Survival.""",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+001_2305-2406,Glubb noted the average age of empires since the time of ancient Assyria (859-612 B.C.) is 250 years.,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+001_2407-2496,Only the Mameluke Empire in Egypt and the Levant (1250-1517) made it as far as 267 years.,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+001_2497-2557,America is 238 years old and is exhibiting signs of decline.,FACT-TESTIMONY,ASSERTION,FACT-TESTIMONY,FACT-TESTIMONY
+001_2561-2695,"All empires begin, writes Glubb, with the age of pioneers, followed by ages of conquest, commerce, affluence, intellect and decadence.",FACT-TESTIMONY,FACT-TESTIMONY,ASSERTION,FACT-TESTIMONY
+002_0-134,"FILE - In this Dec. 10, 2012 file photo, fog obscures the Capitol dome on Capitol Hill in Washington. ((AP Photo/J. Scott Applewhite))",NON-ARGUMENT,NON-ARGUMENT,None,NON-ARGUMENT
+002_138-599,"A British author, residing in the United States for the past 30 years, created a small firestorm earlier this week with his candid observations that modern- day Americans have been duped by the government into accepting a European- style march toward socialism because we fail to appreciate the rich legacy of personal liberty that is everyone’s birthright and is expressly articulated in the Declaration of Independence and guaranteed by the U.S. Constitution.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+002_603-875,"Os Guinness, the author of more than a dozen books defending traditional Judeo-Christian values and Jeffersonian personal liberty, argued that we should embrace individual liberty and personal dignity and reject the “no givens, no rules, no limits” government we now have.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+002_879-892,ADVERTISEMENT,NON-ARGUMENT,NON-ARGUMENT,None,NON-ARGUMENT
+002_896-909,ADVERTISEMENT,NON-ARGUMENT,NON-ARGUMENT,None,NON-ARGUMENT
+002_913-1177,"He went on to opine that the government today is not the constitutionally restrained protector of personal freedoms the Framers left us, but rather has become the wealth-distributing protector of collective interests the Founding Fathers never could have imagined.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+002_1181-1211,Yet the problem is a deep one.,OTHER-FORM,ASSERTION,ASSERTION,ASSERTION
+002_1212-1416,"The Framers believed in the presumption of liberty, which declares that we are free to make personal choices, and the government cannot interfere with our liberties unless we violate the rights of others.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+002_1417-1622,"Stated differently, the federal government cannot interfere with our personal choices by writing any law it wants; it can only regulate behavior or spend money when the Constitution authorizes it to do so.",FACT-TESTIMONY,ASSERTION,ASSERTION,ASSERTION
+002_1626-1895,"But for the past 100 years, the federal government has rejected the Madisonian concept that it is limited to the 16 discrete powers the Constitution delegates to it, and has claimed its powers are unlimited, subject only to the express prohibitions in the Constitution.",ASSERTION,ASSERTION,FACT-TESTIMONY,ASSERTION
+002_1896-2131,"Even those prohibitions can be gotten around since government lawyers have persuaded federal courts to rule that Congress can spend tax dollars or borrowed money on any projects it wishes, whether authorized by the Constitution or not.",ASSERTION,ASSERTION,FACT-TESTIMONY,ASSERTION
+002_2131-2301,"The courts even have authorized Congress to use federal tax dollars to bribe the states into enacting laws that Congress is powerless to enact, and Congress has done so.",ASSERTION,ASSERTION,FACT-TESTIMONY,ASSERTION
+002_2305-2639,"The Declaration of Independence defines our personal liberties as inalienable aspects of our humanity, and the Constitution prohibits the government from interfering with those liberties -- like thought, speech, press, association, worship, self-defense, travel, privacy, due process, use of money and private property, to name a few.",FACT-TESTIMONY,FACT-TESTIMONY,ASSERTION,FACT-TESTIMONY
+002_2643-2797,"The teaching of these founding documents is that our liberties are natural -- their source is not the government -- and they are personal, not collective.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+002_2798-2987,We don’t need a government permission slip to exercise them; we don’t need to belong to a group to enjoy them; they cannot be taken away by a congressional vote or a presidential signature.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+002_2991-3159,"Even though everyone who works for the government takes an oath to uphold the Declaration and the Constitution, very few are consistent with what they have sworn to do.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+002_3160-3485,"We know that because on the transcendental issues of our day -- life, liberty, war and debt -- the leadership of both political parties and the behavior of all modern presidents have revealed a steadfast willingness to write any law and regulate any behavior or permit any evil, whether authorized by the Constitution or not.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+002_3489-3499,Take life.,OTHER-FORM,OTHER-FORM,OTHER-FORM,OTHER-FORM
+002_3500-3551,Abortion is the most deadly force in America today.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+002_3552-3714,"Abortions lawfully kill a baby a minute -- that’s 1.1 million babies a year and 45,000,000 killed since the Supreme Court issued its Roe v. Wade decision in 1973.",ASSERTION,ASSERTION,FACT-TESTIMONY,ASSERTION
+002_3715-3944,"A simple one-line statute -- “The fetus in the womb is a legal person” -- could have been enacted by a simple majority vote in Congress and signed into law by any of our so-called pro-life presidents, thus stopping the slaughter.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+002_3945-3963,It never happened.,OTHER-FORM,ASSERTION,FACT-TESTIMONY,FACT-TESTIMONY
+002_3967-3980,Take liberty.,OTHER-FORM,OTHER-FORM,OTHER-FORM,OTHER-FORM
+002_3981-4216,"Both parties support the Patriot Act and the secret FISA apparatus, which together invade privacy, infringe upon free speech, permit federal agents to write their own search warrants and allow domestic spying on all of us all the time.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+002_4217-4359,"This demonstrates that our political leaders do not believe that our rights are inalienable, but can be interfered with and regulated by them.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+002_4360-4481,They have written laws that literally permit federal agents to do the very acts the Constitution was written to prohibit.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+002_4485-4529,Take the lethal combination of war and debt.,OTHER-FORM,OTHER-FORM,OTHER-FORM,OTHER-FORM
+003_0-196,"Russian President Vladimir Putin smiles during a live video link with members of Russian Geographical Society expedition to the Southern Pole in Moscow\'s Kremlin, Russia on Friday, Dec. 26, 2014.(AP Photo/RIA Novosti, Alexei Druzhinin, Presidential Press Service)",OTHER-FORM,FACT-TESTIMONY,None,NON-ARGUMENT
+003_269-371,"“The bear never asks permission,” remarked Vladmir Putin on a TV promo for his annual news conference.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+003_371-384,"Yes, we know.",OTHER-FORM,NON-ARGUMENT,ASSERTION,OTHER-FORM
+003_388-485,The Russians haven’t stopped their aggressive posturing after annexing Crimea—not by a long-shot.,ASSERTION,ASSERTION,INSULT,ASSERTION
+003_486-643,In early December there was another near miss between a Russian military jet with its transponders turned off and a commercial airliner just south of Sweden.,ASSERTION,ASSERTION,FACT-TESTIMONY,ASSERTION
+003_647-660,ADVERTISEMENT,NON-ARGUMENT,NON-ARGUMENT,None,NON-ARGUMENT
+003_664-677,ADVERTISEMENT,NON-ARGUMENT,NON-ARGUMENT,None,NON-ARGUMENT
+003_681-877,"This adds to the list of over 40 serious incidents involving Russia and NATO countries in the last 8 months, as detailed in a report by a British think tank called the European Leadership Network.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+003_881-1062,"President Obama has so far remained unwilling to do little more than levy pin- prick sanctions against specific Russian individuals, but that doesn’t mean Congress is sitting still.",ASSERTION,ASSERTION,FACT-TESTIMONY,ASSERTION
+003_1066-1161,Republicans have continued to show a willingness to get tough with Russia to actually deter it.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+003_1162-1271,"And now the New Year ushers in a Republican majority in the Senate, and a freshly motivated Republican House.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+003_1275-1534,"Several Senators have argued the U.S. should impose much tougher sanctions on whole sectors of the Russian economy, provide significant arms to Ukraine and NATO allies in the region, and should go back to an emphasis on building out missile defense in Europe.",ASSERTION,ASSERTION,FACT-TESTIMONY,ASSERTION
+003_1538-1647,Moscow has long opposed U.S. missile defense in countries that were once forcibly a part of the Soviet Union.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+003_1648-1793,Recall the now infamous abandonment by President Obama of the Bush plan to deploy 10 large interceptors in Poland in an effort to appease Russia.,ASSERTION,ASSERTION,FACT-TESTIMONY,ASSERTION
+003_1794-1918,"Those same interceptors might not be deployed, but the current and more modest plans to build up defenses, could be adapted.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+003_1919-2197,"Congressman Mike Tuner, R-Ohio, said in a statement released on December 18, ""Given Russia\'s increased aggression toward the West and Iran\'s stubbornness toward its nuclear program, we must ensure a robust BMD capability in Europe. Russia is clearly now a threat to the West.""",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+003_2201-2386,"For years the U.S. has insisted that homeland missile defense systems will not be targeted at Russian assets in order to maintain a ""strategic balance"" between the former Cold War foes.",ASSERTION,ASSERTION,FACT-TESTIMONY,ASSERTION
+003_2387-2514,This remains the position of the U.S. as laid out in a 2010 policy document called the Ballistic Missile Defense Review (BMDR).,FACT-TESTIMONY,FACT-TESTIMONY,ASSERTION,FACT-TESTIMONY
+003_2515-2551,"It is not, however, codified in law.",OTHER-FORM,ASSERTION,ASSERTION,ASSERTION
+003_2555-2783,"And since the U.S. began deploying more missile defense systems abroad to protect allies and U.S. troops from Iranian missiles, officials have made the case that they were not defending against the shorter range Russian systems.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+003_2784-2940,"But this may change; and if it does, it will be the fault of the Russian government, and to the credit of American officials who are paying close attention.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+003_2944-3234,"Unconvinced that the U.S. is not threatening its military, Russia has moved forward with an aggressive plan to improve in quality and quantity its offensive missile forces and continues to threaten its neighbors (U.S. allies) with them, even threatening to use—preemptively—nuclear weapons.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+003_3235-3436,The revelations that Russia has been in violation of the INF Treaty has also ushered in some bipartisan agreement that perhaps the U.S. should rethink its position regarding missile defense and Russia.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+004_0-102,"If there were an award for scummiest business practice, refusing to pay interns would get many a vote.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+004_103-357,"But Jan Mortier, who until a year ago ran a “junior associates” programme through his thinktank Civitatis International, has upped the stakes by charging former interns (or trainees, as he prefers to think of them) a £300 fee for an employment reference.",ASSERTION,ASSERTION,FACT-TESTIMONY,ASSERTION
+004_361-445,Is charging someone for a reference after refusing to pay them as scummy as it gets?,RH-QUESTION,RH-QUESTION,RH-QUESTION,RH-QUESTION
+004_446-456,Sadly not.,OTHER-FORM,OTHER-FORM,FACT-TESTIMONY,OTHER-FORM
+004_457-652,"Young people are lucky if unpaid work is the worst deal they are offered: although the “junior associates” programme was advertised on Internwise, the three-month programme cost more than £1,600.",ASSERTION,ASSERTION,FACT-TESTIMONY,ASSERTION
+004_653-715,"(Mortier insists it was a training course, not an internship.)",FACT-TESTIMONY,FACT-TESTIMONY,ASSERTION,FACT-TESTIMONY
+004_716-735,And the winner is …,OTHER-FORM,OTHER-FORM,ASSERTION,OTHER-FORM
+004_739-862,"But how on Earth did Mortier think he could get away with charging for references, never mind the extortionate fee of £300?",RH-QUESTION,RH-QUESTION,RH-QUESTION,RH-QUESTION
+004_863-1017,"His market is ambitious but terrified young people who are overqualified and unemployed – and there is easy money to be made from them, for three reasons.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+004_1021-1102,"First, they’ve been sent the message that they’re of little value to the economy.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+004_1103-1219,Government and businesses have spent the entire economic crisis suggesting that young people lack employable skills.,ASSERTION,ASSERTION,FACT-TESTIMONY,ASSERTION
+004_1220-1433,Repeated references to these elusive skills rarely lead to any kind of specific mention of what they are – or an investigation into why schools and universities stopped teaching them just as the economy collapsed.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+004_1434-1602,"If you’ve spent your life in education only to be called unemployable, the idea that you’d have to pay someone to say nice things about you doesn’t seem so far-fetched.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+004_1606-1744,"Second, while young people as a group tend not to have much money sloshing around, their parents and grandparents are supposedly doing OK.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+004_1745-1827,People wanting what’s best for their kids leads easily to the coughing-up of cash.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+004_1831-1994,"Third, when it comes to looking for a job, young people are so used to mounting hindrances that you can stick on another like an extra bottle on a drunk’s bar tab.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+004_1995-2334,"Legend has it that people used to get a job by seeing one they wanted, and applying; then came the time when they needed qualifications to get the same job; then they needed better qualifications; then they would have to do an unpaid internship; then to prove it wasn’t all a fluke they’d have to get qualifications and do an internship.",ANECDOTE,ASSERTION,ASSERTION,ASSERTION
+004_2336-2474,"Now, Civitatis would have you believe that if you attend its summer school you “will gain the advantage over others for internship (sic)”.",FACT-TESTIMONY,ASSERTION,ASSERTION,ASSERTION
+004_2475-2500,"So, £300 for a reference?",RH-QUESTION,RH-QUESTION,RH-QUESTION,RH-QUESTION
+004_2501-2522,Stick it on the bill.,OTHER-FORM,OTHER-FORM,OTHER-FORM,OTHER-FORM
+004_2526-2677,But the damage caused by charging for references isn’t limited to the spineless gouging of money from naive young people trying to get their first job.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+004_2678-2738,A reference is immediately invalid once money changes hands.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+005_0-14,(Charles Bush),OTHER-FORM,NON-ARGUMENT,None,NON-ARGUMENT
+005_18-60,The holidays are my favorite time of year.,ANECDOTE,ANECDOTE,ASSERTION,ANECDOTE
+005_61-255,"As my home fills with the joy and laughter of my six children and four grandchildren, I’m reminded of how lucky I am to have the most wonderful job in the world – being a mother and grandmother.",ANECDOTE,ANECDOTE,ASSERTION,ANECDOTE
+005_256-441,"It’s the single most important thing I’ve done with my life, and I know just how important the job is because I am constantly reminded of what an influence my own mother was in my life.",ANECDOTE,ANECDOTE,ASSERTION,ANECDOTE
+005_442-552,My mother Mieke survived three and a half horrific years in a Japanese concentration camp during World War II.,ANECDOTE,ANECDOTE,FACT-TESTIMONY,ANECDOTE
+005_553-668,"During that time, she focused all of her energy on caring for fellow prisoners who were far worse off than she was.",ANECDOTE,ANECDOTE,FACT-TESTIMONY,ANECDOTE
+005_672-795,"When I think of my mother, I think of the selfless love she had not only for my family, but for complete strangers as well.",ANECDOTE,ANECDOTE,ASSERTION,ANECDOTE
+005_796-874,She’s with me every day as I challenge myself to live my life in the same way.,ANECDOTE,ANECDOTE,ASSERTION,ANECDOTE
+005_875-985,"I am so blessed to have a wonderful family and career that I love, and I see my mother in all of those things.",ANECDOTE,ANECDOTE,ASSERTION,ANECDOTE
+005_986-1052,I see her every day in the faces of my children and grandchildren.,ANECDOTE,ANECDOTE,ASSERTION,ANECDOTE
+005_1053-1222,I am reminded of her each time a single white feather floats through the air – whether on good days or bad days – and I have to smile knowing that she is always with me.,ANECDOTE,ANECDOTE,ASSERTION,ANECDOTE
+006_0-73,"On Thursday, the so-called London Conference on Afghanistan will convene.",FACT-TESTIMONY,FACT-TESTIMONY,None,FACT-TESTIMONY
+006_74-240,"Of all the high-profile international conferences that have been held on Afghanistan over the years - in Bonn, Tokyo, and Istanbul - this comes at a crucial juncture.",ASSERTION,ASSERTION,None,ASSERTION
+006_244-468,"At the end of October, British forces lowered the flag at Camp Bastion - from where they had engaged in the most intense fighting the British army had seen since the Falklands War - and handed over the base to Afghan forces.",FACT-TESTIMONY,FACT-TESTIMONY,None,FACT-TESTIMONY
+006_469-582,"Just over a month later, the Taliban mounted a 14-hour attack on the very same site, killing six Afghan soldiers.",FACT-TESTIMONY,FACT-TESTIMONY,None,FACT-TESTIMONY
+006_583-746,"To the north, in the capital Kabul, insurgents have pulled off a dozen attacks in the space of the last few weeks, striking at diplomats, NGOs, and US contractors.",FACT-TESTIMONY,FACT-TESTIMONY,None,FACT-TESTIMONY
+006_747-836,"What explains this spate of violence, and is it a portent for the future of Afghanistan?",RH-QUESTION,OTHER-FORM,None,RH-QUESTION
+006_839-984,"The International Security Assistance Force (ISAF), a US-led group that includes NATO members and others, winds up its mission on New Year's Eve.",FACT-TESTIMONY,FACT-TESTIMONY,None,FACT-TESTIMONY
+006_985-1274,"A slimmed-down force of 12,000 foreign troops - mostly American - will stay behind, and US President Barack Obama has authorised the US contingent to continue supporting Afghan National Security Forces (ANSF) throughout 2015, with all of these forces scheduled to leave by the end of 2016.",FACT-TESTIMONY,FACT-TESTIMONY,None,FACT-TESTIMONY
+006_1275-1368,"The US is not, therefore, leaving Afghanistan in the abrupt manner than it left Iraq in 2011.",FACT-TESTIMONY,ASSERTION,None,ASSERTION
+006_1369-1407,But this is a time of dramatic change.,ASSERTION,ASSERTION,None,ASSERTION
+006_1411-1440,Drastic effects on casualties,NON-ARGUMENT,NON-ARGUMENT,None,NON-ARGUMENT
+006_1444-1660,"For one thing, the ANSF are doing much of the fighting themselves, with drastic effects on casualties: over 9,000 Afghan troops have died since 2013, four times greater than the entire American death toll since 2001.",FACT-TESTIMONY,ASSERTION,None,ASSERTION
+006_1661-1756,"Afghan police officers are suffering especially badly, with thousands being killed every month.",FACT-TESTIMONY,ASSERTION,None,ASSERTION
+006_1760-1937,"At the political level, a new government of national unity, led by President Ashraf Ghani and Chief Executive Abdullah Abdullah, has taken charge after Hamid Karzai's departure.",FACT-TESTIMONY,FACT-TESTIMONY,None,FACT-TESTIMONY
+006_1941-2280,"Ghani is already reported to have opened backchannel talks with the Taliban, visiting both Pakistan and Beijing to seek their help in this effort, cancelling an earlier arms request from India, and even making a highly unorthodox visit to Pakistan's army headquarters, in recognition of Pakistan's long-standing support for the insurgents.",FACT-TESTIMONY,ASSERTION,None,ASSERTION
+006_2284-2328,"On the ground, the overall picture is mixed.",ASSERTION,ASSERTION,None,ASSERTION
+006_2329-2487,"This year, Taliban-initiated attacks are reported to have fallen by 25 percent, and ANSF mounted offensives four to five times more frequently than last year.",FACT-TESTIMONY,ASSERTION,None,ASSERTION
+006_2488-2788,"At the same time, as political scientist Jason Lyall observed, the recently-concluded fighting season - from April to October - ""witnessed the appearance of large Taliban units on the battlefield"" for the first time, with a tenth of all Afghan districts seeing ""at least one major Taliban offensive"".",FACT-TESTIMONY,FACT-TESTIMONY,None,FACT-TESTIMONY
+006_2792-2961,"Lyall also notes reports of over 1,000 insurgents on the battlefield, ""numbers not seen since the Taliban's original push to capture Kabul during the 1992-96 civil war"".",FACT-TESTIMONY,FACT-TESTIMONY,None,FACT-TESTIMONY
+006_2962-3228,"While we should take these reports with a pinch of salt - NATO commanders accuse their Afghan counterparts of exaggerating - they do point to a simple, stark fact: The insurgency is far from broken, and it will be able to pressure the Afghan state for years to come.",ASSERTION,ASSERTION,None,ASSERTION
+006_3232-3314,"In this context, the wave of insurgent attacks might be explained in several ways.",OTHER-FORM,ASSERTION,None,ASSERTION
+006_3318-3489,"First, these attacks might be intended to drive a wedge between the Afghan government and its foreign patrons, encouraging the latter to abandon their allies more quickly.",ASSERTION,ASSERTION,None,ASSERTION
+006_3490-3639,"As a Taliban spokesman put it bluntly: ""Our objective is to force the foreigners to flee Kabul. Before, the foreigners were visible in the provinces.",FACT-TESTIMONY,FACT-TESTIMONY,None,FACT-TESTIMONY
+006_3640-3751,"Now that they have limited more of their activities to Kabul, we have also gone to Kabul to target them there.""",FACT-TESTIMONY,FACT-TESTIMONY,None,FACT-TESTIMONY
+006_3752-3784,"To some extent, this has worked.",ASSERTION,ASSERTION,None,ASSERTION
+006_3785-3863,"Many aid agencies have pulled out their staff, and restricted their movements.",ASSERTION,ASSERTION,None,ASSERTION
+006_3867-3888,Tarnished credibility,NON-ARGUMENT,NON-ARGUMENT,None,NON-ARGUMENT
+006_3892-4059,"Second, the insurgents failed to seriously disrupt either round of this year's Afghan elections, as they had vowed to do, leaving their credibility somewhat tarnished.",ASSERTION,ASSERTION,None,ASSERTION
+006_4060-4178,"Prominent attacks - publicised with videos - redress this issue, and project strength at the end of a fighting season.",ASSERTION,ASSERTION,None,ASSERTION
+006_4179-4325,They might also be ways of strengthening the insurgency's bargaining position in advance of any peace talks that gain momentum over the next year.,ASSERTION,ASSERTION,None,ASSERTION
+006_4329-4448,"Third, the insurgency is not a monolith, and different parts of the Taliban might be responsible for different attacks.",ASSERTION,ASSERTION,None,ASSERTION
+006_4449-4606,"The Haqqani Network, a semi- autonomous group with close ties to Pakistani intelligence, has proven most effective at projecting suicide bombings into Kabul.",FACT-TESTIMONY,ASSERTION,None,ASSERTION
+007_0-267,"The London Conference on Afghanistan will provide an opportunity for the government of Afghanistan to set out its commitment to reform, states the UK government's official webpage of the upcoming meeting between the new Afghan government and its international donors.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+007_268-429,"The conference is also an opportunity for the international community ""to reaffirm its long-term commitment to supporting Afghanistan's peaceful development"".",FACT-TESTIMONY,ASSERTION,FACT-TESTIMONY,FACT-TESTIMONY
+007_430-577,"Despite the media hype, the London Conference is nothing more than a routine reunion, set by the 2012 Tokyo Mutual Accountability Framework (TMAF).",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+007_578-703,"As part of the agreement, donors pledged support and the Afghan government promised to implement reforms and curb corruption.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+007_704-947,"The upcoming meeting in the British capital, therefore, is the first in a series of exchanges that will be held every two years, at the ministerial level, between the Afghan and donor governments to assess progress and check TMAF's benchmarks.",ASSERTION,FACT-TESTIMONY,ASSERTION,ASSERTION
+007_951-1174,"Still, the December 4 conference has the potential to ease Afghanistan into a stable and increasingly self-sufficient future and render it a reliable global partner for ensuring peace and stability in the region and beyond.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+007_1178-1304,To utilise this opportunity as more than a routine progress assessment requires a fundamental shift of attitude on both sides.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+007_1305-1483,"Lack of concrete success in the military, economic development and governance efforts in post- Taliban Afghanistan needs to be sincerely examined and adjustments need to be made.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+007_1487-1631,"There is multitude of examples in the international community's flawed, if not disingenuous, aid programmes and their monitoring in Afghanistan.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+007_1632-1775,I was hired by a US consultancy firm to map out the field and offer recommendations for the design of a multimillion dollar governance project.,ANECDOTE,ANECDOTE,FACT-TESTIMONY,ANECDOTE
+007_1776-1839,"My report and recommendations, it turned out, were too radical.",OTHER-FORM,ANECDOTE,ASSERTION,ANECDOTE
+007_1843-1932,"""We expected recommendations for cosmetic changes to the ongoing programmes,"" I was told.",FACT-TESTIMONY,ANECDOTE,FACT-TESTIMONY,FACT-TESTIMONY
+007_1933-1984,"""The donor agency does not want to rock the boat.""",FACT-TESTIMONY,ANECDOTE,FACT-TESTIMONY,FACT-TESTIMONY
+007_1987-2198,"On another occasion, I was interviewed by a European consultant for his assessment of the first phase of a programme that had consistently been showcased as a ""success story"" by donors and the Afghan government.",ANECDOTE,ANECDOTE,FACT-TESTIMONY,ANECDOTE
+007_2202-2341,"In his three-day field trip to Kabul, he had held meetings with three embassies, the UN, the Afghan head of the implementing agency and me.",ASSERTION,ANECDOTE,FACT-TESTIMONY,ANECDOTE
+007_2342-2438,"Eagerly, I began to point to the flaws of the programme and offered suggestions for improvement.",ANECDOTE,ANECDOTE,FACT-TESTIMONY,ANECDOTE
+007_2439-2481,I also offered assistance for site visits.,ANECDOTE,ANECDOTE,FACT-TESTIMONY,ANECDOTE
+007_2485-2557,"""Don't waste your time and mine,"" the septuagenarian consultant told me.",FACT-TESTIMONY,ANECDOTE,FACT-TESTIMONY,FACT-TESTIMONY
+007_2558-2630,"""The donor agency expects a rosy report highlighting only the positive.""",FACT-TESTIMONY,ANECDOTE,FACT-TESTIMONY,FACT-TESTIMONY
+007_2634-2798,"He further clarified that the decision to fund the second phase had already been made and it had more to do with international aid politics, than development logic.",FACT-TESTIMONY,ANECDOTE,FACT-TESTIMONY,FACT-TESTIMONY
+007_2802-2935,"Numbers provide an easy way to illustrate success, especially when seeking international aid budget approval from legislative bodies.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+007_2936-3139,"While figures indicating Afghanistan's progress towards development are impressive and could not have been achieved without generous international assistance, they conceal a lack of attention to quality.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+007_3143-3230,About 8 million Afghan children - including over 2.5 million girls - are now in school.,ASSERTION,ASSERTION,FACT-TESTIMONY,ASSERTION
+007_3231-3331,This is a figure cited regularly as an indication that the programmes are yielding tangible results.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+007_3335-3409,The fact that most of them graduate only half-literate is never revealed.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+007_3412-3531,Here's another feel-good figure: More than 60 percent of the Afghan population now has access to healthcare facilities.,ASSERTION,ASSERTION,FACT-TESTIMONY,ASSERTION
+007_3532-3782,"The fact that some of those facilities have only received a checkmark because merely a building was constructed and many are staffed only with a nurse, have no diagnostic technology and have terribly anaemic pharmaceutical offerings is often ignored.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+007_3786-3965,Much has been written about the fact that a hefty portion of the aid money goes back to donor countries because of the donors' insistence to award contracts to their own citizens.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+007_3966-4074,The contracts move hand to hand and finally local non-governmental agencies are hired to implement projects.,ASSERTION,ASSERTION,FACT-TESTIMONY,ASSERTION
+007_4075-4268,"At this point, while at best one-quarter of the original funds remains to be spent on the actual project, quality is grossly compromised and monitoring becomes either too complex or irrelevant.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+007_4272-4382,The international community has also created an indigenous vehicle for channelling portions of its assistance.,ASSERTION,ASSERTION,FACT-TESTIMONY,ASSERTION
+007_4383-4476,"Under the guise of ""civil society"", hundreds of Afghan NGOs have been established since 2002.",ASSERTION,ASSERTION,FACT-TESTIMONY,ASSERTION
+007_4477-4550,This artificial civil society’s lifeline is the donor community in Kabul.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+007_4551-4768,"Projects and funds are handed to them for implementation and as the closing of fiscal year in donor capitals approaches, generosity in disbursing funds, irrespective of the projects' logic, utility and cost increases.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+007_4772-4790,Where the funds go,NON-ARGUMENT,NON-ARGUMENT,RH-QUESTION,NON-ARGUMENT
+007_4794-4921,"Granted that when international aid began to pour in, the Afghan state had very small, if any, capacity to absorb and spend it.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+007_4922-5142,"However, after 13 years and millions of dollars spent on public sector capacity building, the bulk of the funds continue to be spent directly by donors and only a little over 20 percent is given to the Afghan government.",ASSERTION,ASSERTION,FACT-TESTIMONY,ASSERTION
+007_5146-5279,The parallel system and structures offering higher salaries paid in US dollars have lured much of the skilled Afghan human resources.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+007_5280-5491,"The Afghan administration, thus, has to be grateful to donors for funding training workshops, while in the end, loses its best trained personnel to international organisations, consulting firms and embassies.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+007_5496-5615,It is often said that rampant Afghan corruption and lack of capacity would result in misuse and waste of donors' funds.,ASSERTION,ASSERTION,FACT-TESTIMONY,ASSERTION
+007_5616-5868,"A mere review of reports published by the US oversight agency, Special Inspector General for Afghanistan Reconstruction (SIGAR), reveals the depth and extent of waste, fraud and abuse of the direct US aid to Afghanistan just in reconstruction projects.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+007_5869-5973,"Similar monitoring of most donors' direct aid will, no doubt, highlight comparable corruption and waste.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+008_0-177,"After 13 years of the International Security Assistance Force (ISAF), the United States and a number of its NATO partners will start the Resolute Support Mission in Afghanistan.",ASSERTION,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+008_178-290,"The number of NATO and US forces is reduced from 140,000 to 13,500 - most of them American - starting January 1.",FACT-TESTIMONY,ASSERTION,FACT-TESTIMONY,FACT-TESTIMONY
+008_294-429,"How will the new national unity government in Kabul weather the NATO drawdown, despite a resilient insurgency and intensified fighting?",RH-QUESTION,RH-QUESTION,RH-QUESTION,RH-QUESTION
+008_433-518,There has been much speculation about the security transition in 2014 in Afghanistan.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+008_519-614,"In 2012, I wrote an Oped for the New York Times, warning that ""Kabul risks political meltdown"".",FACT-TESTIMONY,ANECDOTE,FACT-TESTIMONY,FACT-TESTIMONY
+008_615-793,"Many other analysts have also predicted a sombre year, particularly after the refusal of former President Hamid Karzai to sign the Bilateral Security Agreement (BSA) with the US.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+008_797-990,"However, for the time being, we were all proved wrong as the democratic process that began at the Bonn Conference in 2001, survived, and the country was saved from the brink of a new civil war.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+008_994-1227,"Indeed we have achieved important strategic gains in the last few months, starting with the landmark peaceful transfer of political power from one democratically elected leader to another, for the first time in Afghanistan's history.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+008_1228-1424,"This milestone was made possible by the will of ordinary Afghan people, who twice braved the threat of violence imposed by the Taliban and came out en masse, voting for their candidates of choice.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+008_1428-1501,"Meanwhile, the Taliban has tried hard to undermine the electoral process.",ASSERTION,ASSERTION,FACT-TESTIMONY,ASSERTION
+008_1502-1685,"By confronting Afghan security forces in 16 different provinces, they wanted to gain significant territory, thus declaring themselves as an alternative governing force in the country.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+008_1689-1893,"Nevertheless, the Afghan security forces have been able to hold ground and push back the insurgent offensives in almost all fronts, which has became a source of pride for the Afghan government and people.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+008_1897-2117,"This proved wrong skeptics who doubted the capacity of the Afghan security forces to defend their country, which has taken responsibility for security in many provinces since the start of the security transition in 2012.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+008_2121-2328,"Following the inauguration of President Ashraf Ghani and Chief Executive Officer (CEO) Abdullah Abdullah, the BSA was immediately signed, approved by an overwhelming majority of Afghan Members of Parliament.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+008_2332-2576,"In addition to the BSA, the signing of the Status of Force Agreement (SOFA) between NATO and the new Afghan government has created a new momentum in the country, while ensuring continued military and financial assistance for the new government.",ASSERTION,ASSERTION,FACT-TESTIMONY,ASSERTION
+008_2577-2701,"This has inherited an economic crisis, characterised by a fiscal gap resulting from the failures of the previous government.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+008_2705-2783,Afghanistan's strategic gains are still contingent upon two important factors.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+008_2784-2861,"Firstly, there must be continued NATO support for the Afghan security forces.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+008_2862-3050,This is done by building the capacity of the forces; providing adequate resources such as fire power and particularly air power; assisting in intelligence gathering; and logistics support.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+008_3054-3231,"Without the technical and financial support from the US and NATO countries, the Afghan security forces will not be able to sustain a high rate of casualties against the Taliban.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+008_3232-3441,"For instance in 2014, an additional 5,000 members of the Afghan security forces were killed either in direct fighting against the Taliban or because of terrorist attacks such as suicide and road side bombings.",ASSERTION,ASSERTION,FACT-TESTIMONY,ASSERTION
+008_3445-3635,"Secondly, the government has the capacity to reform the security intuitions in order to reduce the level of corruption and eliminate political influence exercised by important power brokers.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+008_3636-3775,The financing of the Afghan security forces are beyond the Afghan government's resources and is totally dependent on donors' contribution.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+008_3778-3848,The government could make significant contributions by reducing costs.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+008_3852-3924,This could be done through reducing corruption and improving management.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+008_3925-4114,"Meanwhile, eliminating political influence in appointments of senior officials and promotion of officers could boost the morale of the security forces and increase their fighting capacity.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+008_4117-4357,"Alas, despite tremendous strategic gains, the new National Unity Afghan government is struggling with key cabinet appointments, particularly in the security sector, which might have been caused by heavy political influence by power brokers.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+009_0-96,France's Prime Minister Manuel Valls has said that his country is now at war with radical Islam.,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+009_100-315,"""It is a war against terrorism, against jihadism, against radical Islam, against everything that is aimed at breaking fraternity, freedom, solidarity,"" Valls said during a speech on Saturday in Evry, south of Paris.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+009_319-343,"What is ""radical Islam""?",RH-QUESTION,RH-QUESTION,RH-QUESTION,RH-QUESTION
+009_344-366,Is there such a thing?,RH-QUESTION,RH-QUESTION,RH-QUESTION,RH-QUESTION
+009_367-553,And how does this affect the ongoing US-led war on extremism - the most tangible form being ISIL who have controlled large segments of land and people in northern Iraq and eastern Syria?,RH-QUESTION,RH-QUESTION,RH-QUESTION,RH-QUESTION
+009_557-623,"Very few people know that in Islam there are two kinds of ""jihad"".",ASSERTION,ASSERTION,FACT-TESTIMONY,ASSERTION
+009_624-714,The smaller jihad is the more known - namely the one which reflects the military struggle.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+009_715-795,"But the greater jihad, which is less known, is the internal jihad - or struggle.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+009_799-936,"Few people also know that the Arabic word ""jihad"" is used throughout the Bible as well, although certainly not in the militaristic sense.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+009_937-1039,"2 Timothy 4:7 states: ""I have fought the good fight, I have finished the race, I have kept the faith.""",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+009_1040-1103,"The verse in Arabic uses the term ""jihad"" for the word ""fight"".",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+009_1107-1236,"So whether it is this struggle or the fight for a better world, the militaristic jihad is certainly not a monopoly for Islamists.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+009_1240-1367,World leaders have correctly pointed out that the fight against ISIL must be waged both on the military and ideological levels.,ASSERTION,ASSERTION,FACT-TESTIMONY,ASSERTION
+009_1368-1442,But we must be careful about the idea of conflating Islam with radicalism.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+009_1443-1617,People and ideas might be radical but to target a religion with radicalism adds insult to injury and shifts from the proper focus which is the individually created extremism.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+009_1621-1746,"We have heard and seen a lot of the former, but very little has been done to tackle the ideologies behind this extreme group.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+009_1750-1971,The need to deal with the extreme thoughts connected to this movement was made clear by extremists who carried out the heinous attack against a French satirical newspaper; most likely because of the ideas it has espoused.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+009_1975-2089,"Whenever violent acts take place, the natural response is to militarily obliterate the group or militia behind it.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+009_2090-2259,There might be a good case for a military response but it would be a totally counterproductive effort if it is not accompanied by an equally strong ideological response.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+009_2263-2387,It might be possible to kill the holders of some of these ideas but everyone knows that you can't kill ideas by using force.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+009_2388-2443,Extremist ideology must be tackled in a number of ways.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+009_2447-2626,The most important ideological response to extremism is the need to show that there are better and more effective ways to deal with the various issues that make extremism popular.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+009_2627-2773,This includes the need to introduce real political reform in the countries that are of importance to the people that follow these extreme leaders.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+009_2777-2921,It applies both to the Arab countries whose autocratic leadership has left a large sector of the public without any say in what happens to them.,ASSERTION,ASSERTION,FACT-TESTIMONY,ASSERTION
+009_2922-3094,But it also applies to the need to continue stemming racism and Islamophobia from many of the western countries where some homegrown terrorism seems to be gaining strength.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+009_3098-3240,"The issue is complicated by murderous acts like those committed in Paris, which tend to increase rather than decrease anti-Islamic sentiments.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+009_3244-3418,"In addition to political changes that must be introduced, Arab and Muslim intellectuals and leaders must end their self-imposed silence and speak out clearly and unabashedly.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+010_0-221,"On Monday afternoon, Senator Dianne Feinstein released a letter to Barack Obama, suggesting a series of reforms “to make sure that the United States never again engages in actions that you have acknowledged were torture”.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+010_225-411,"A month after her office released the landmark (but still heavily redacted) Senate torture report, Feinstein is now calling for legislation to strengthen the prohibition against torture.",ASSERTION,ASSERTION,FACT-TESTIMONY,ASSERTION
+010_412-493,"This is a laudable and necessary step, but torture has been a felony for decades.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+010_494-559,"So have war crimes, lying to Congress and obstruction of justice.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+010_560-677,The fundamental problem is that the US government has been unable or unwilling to enforce those laws against the CIA.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+010_678-821,"If reform does not confront the reasons for that failure, it may not deter the United States from engaging in torture under a future president.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+010_825-968,"To the extent that federal prosecutors have simply lacked the political will to investigate the CIA, there’s not much Congress can do about it.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+010_969-1124,"But legislation could address many of the other factors that allowed the CIA to torture prisoners, destroy evidence and lie to investigators with impunity.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+010_1125-1389,"There is the CIA’s reliance on secret “torture memos” written by the Office of Legal Counsel – which exploited some weaknesses in the legal definition of torture, but depended far more heavily on absurd legal arguments and false representations of fact by the CIA.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+010_1390-1479,There’s the unethical role of CIA doctors and psychologists in monitoring interrogations.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+010_1480-1577,"And above all, there remains the CIA’s ability to keep all the evidence of its crimes classified.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+010_1581-1941,"The only explanation the justice department has ever provided for the failure to indict a single CIA officer for torture, war crimes, homicide, destruction of evidence or any of the other crimes the Senate report documents is a bland statement that “the admissible evidence would not be sufficient to obtain and sustain a conviction beyond a reasonable doubt”.",FACT-TESTIMONY,ASSERTION,ASSERTION,ASSERTION
+010_1942-2127,"The justice department refuses to answer questions about the role played by top-secret classification in that decision, or disclose any of the records from the criminal investigations.",ASSERTION,ASSERTION,FACT-TESTIMONY,ASSERTION
+010_2130-2446,"But we do know that until the Senate report was released, the Obama administration took the position that every detail of an individual detainee’s torture in CIA custody was top secret – including former CIA prisoners’ memories of their own treatment, the locations of black sites and the names of all the witnesses.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+010_2447-2642,"We know the CIA redacted from the report not only the names but even the pseudonyms of nearly every CIA officer and contractor involved in the program, and every country that hosted a black site.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+010_2643-2761,And we know that every last civil suit brought by CIA torture victims has been dismissed on national security grounds.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+010_2762-2949,So it’s difficult to imagine how a prosecutor could have made a torture case against the CIA without disclosing this evidence – and even harder to imagine the agency allowing its release.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+010_2953-3212,"In theory, Obama’s December 2009 executive order on national security classification should prevent the CIA from using secrecy to place itself beyond the rule of law, since the order specifically forbids classifying information to “conceal violations of law”.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+010_3213-3278,"In practice, though, the prohibition is virtually never enforced.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+010_3279-3476,The Obama administration – like the Bush administration before it – takes the position that the CIA’s criminal actions can be legitimately classified if they are “intelligence sources and methods”.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+010_3477-3613,"And neither Congress, nor the president, nor the courts have imposed any legal limit on what counts as an intelligence source or method.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+010_3613-3718,"In practice, the phrase has come to mean “anything the intelligence community doesn’t want you to know.”",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+010_3719-3884,"Congress needs to write a legal definition of “intelligence sources and methods” that imposes real limits, and makes clear that it excludes torture and other crimes.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+011_0-76,It has been a grim start for 2015 as far as European tolerance is concerned.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+011_77-114,Mosques have been attacked in Sweden.,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+011_115-189,Demonstrations continue in Germany against the “Islamisation of the west”.,ASSERTION,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+011_190-222,And antisemitism is on the rise.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+011_226-355,We knew something nasty had been unleashed when the European elections last year produced a surge of populist xenophobic parties.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+011_356-503,"Many explanations have been given: the economic crisis, unemployment, the disenfranchisement of the middle classes, anxieties fed by globalisation.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+011_504-594,Pointing fingers at strangers or supposed intruders has become almost an automatic reflex.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+011_595-643,Anti-immigration parties are having a field day.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+011_644-742,"All our problems come from the outside, from some kind of invasion: that’s how the narrative goes.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+011_743-874,In France the novelist Michel Houellebecq is making headlines with a new book imagining the election in 2022 of a Muslim president.,ASSERTION,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+011_878-946,"There are, it is true, signs of a democratic revival against racism.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+011_947-1032,"In solidarity with Muslims, some citizens have been demonstrating in European cities.",FACT-TESTIMONY,ASSERTION,ASSERTION,ASSERTION
+011_1033-1187,"It is perhaps only when the worst happens – arson attacks on mosques, or neo-Nazi groups in the streets – that people start mobilising for common decency.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+011_1188-1222,But the trend is worrisome indeed.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+011_1223-1355,"Europeans seem to be grappling with this one question: how do I live alongside people of a different cultural background, the Other?",ASSERTION,ASSERTION,RH-QUESTION,ASSERTION
+011_1359-1438,"In times like this, literature and history can help us see things more clearly.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+011_1439-1694,"I turned to the Polish writer Ryszard Kapuściński, who spent most of his life travelling across the developing world and reflecting on how Europeans relate to that huge part of the global population that is non- European, and much poorer than Europeans.",ASSERTION,ANECDOTE,ASSERTION,ASSERTION
+011_1696-1977,"In his book The Other, Kapuściński – who had flaws as a journalist, but certainly didn’t lack curiosity for different cultures – points out how difficult it is for inhabitants of the old continent to accept that “the map of the world has changed” since decolonisation in the 1960s.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+011_1978-2133,"After dominating the globe for hundreds of years, Europeans still have trouble dealing with the fact that they have become less central, less overpowering.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+011_2134-2318,"And yet it is a paradox, because Europe produced arguably the first world citizen open to discovering and appreciating foreign cultures: the Greek historian Herodotus, 2,500 years ago.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+011_2322-2444,I can hear the cringing: how delusional and idealistic it is to bring Herodotus into a 21st-century debate on immigration.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+011_2445-2518,"But if roots matter, then Europeans must look at themselves more closely.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+011_2519-2576,"Things were never stable, nor populations fixed in stone.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+011_2577-2686,Europe is after all the appendix of a great and contrasted landmass – it was always meant to be a crossroads.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+011_2687-2793,"We may be baffled by changes, but there were times when we lived with much more diversity in our midst.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+011_2794-2829,Tony Judt is great to read on this.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+011_2830-3245,"In his book Postwar, he recalls how “the European continent was once a complex tapestry of languages, religions, communities, and nations that overlapped. Many of its cities – including some of the smallest, at the intersection of old and new imperial borders, such as Trieste, Sarajevo, Salonica, Czernowitz, Odessa, Vilnius – were truly multicultural, with Catholics, Orthodox, Muslims, Jews and others mingling.”",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+011_3249-3330,"Judt goes on: “Between 1914 and 1945, however, this Europe was reduced to ashes.”",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+011_3331-3476,"As a result of war, occupation, border changes, expulsions and genocide, most people ended up living among people like them, in different states.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+011_3477-3598,"During the cold war, the two halves of Europe lived in “hermetic national enclaves” – a world of homogeneity, notes Judt.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+011_3602-3702,"In the 1960s immigrants arrived in western Europe to provide a workforce, most from former colonies.",ASSERTION,ASSERTION,FACT-TESTIMONY,ASSERTION
+011_3703-3814,"Judt calls this a “new presence of ‘others’ living in Europe”, including the millions of Muslims in today’s EU.",FACT-TESTIMONY,ASSERTION,FACT-TESTIMONY,FACT-TESTIMONY
+011_3815-4029,"He says this presence “has outlined not only Europe’s discomfort as it is faced with a renewed and growing diversity, but also the ease with which the ‘other’ dead of Europe’s past had crept out of people’s minds”.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+012_0-111,"Many have simply lost faith in global climate negotiations summits such as COP 20 starting in Lima, Peru today.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+012_112-397,"But while the process has not delivered the climate action we need, I would argue that this year key things have changed and that we must continue to demand from our politicians that they listen and act and, by that, safeguard the future of next and current generations on this planet.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+012_401-519,"As nations start the latest global round of climate change negotiations in Lima, Peru today, it is easy to be cynical.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+012_520-660,"Because in the 20 plus years that our governments have been meeting for global climate meetings, emissions have risen more than ever before.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+012_661-730,This year is already predicted to be the warmest since records began.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+012_734-775,"And yet, this is a moment of opportunity.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+012_776-821,"Because things are changing, really changing.",OTHER-FORM,ASSERTION,ASSERTION,ASSERTION
+012_822-900,"In the climate movement, in the economy and in the politics of climate change.",OTHER-FORM,ASSERTION,ASSERTION,ASSERTION
+012_901-963,"Today, the climate movement all over the world is reenergised.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+012_964-1186,The largest ever climate march in New York this September was a powerful symbol for the global rise of a movement that is stopping pipelines and coal plants as well as forcing renewable energy solutions all over the world.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+012_1190-1315,"In economics, too, we live in a different world: Cost-effective, sensible renewable energy solutions have made quantum leaps.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+012_1316-1425,Renewables are the most economical solution for new power capacity in an ever-increasing number of countries.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+012_1426-1626,"One hundred percent of new power capacity added in the United States in August was renewable and countries such as Denmark and Germany are producing new ""clean electricity"" records almost every month.",FACT-TESTIMONY,ASSERTION,FACT-TESTIMONY,FACT-TESTIMONY
+012_1627-1695,China is installing as much solar this year as the US has ever done.,FACT-TESTIMONY,ASSERTION,FACT-TESTIMONY,FACT-TESTIMONY
+012_1699-1718,Bilateral agreement,NON-ARGUMENT,NON-ARGUMENT,OTHER-FORM,NON-ARGUMENT
+012_1722-1884,"The recent bilateral agreement between China and the United States to cut pollution and drive cleaner energy sources is, in addition, a sign of changing politics.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+012_1885-1976,"Many said that such an agreement was impossible, that it would not happen in our lifetimes.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+012_1977-1992,And yet it did.,OTHER-FORM,ASSERTION,FACT-TESTIMONY,FACT-TESTIMONY
+012_1993-2105,Only a fool would argue that the action proposed by these two biggest polluters and biggest economies is enough.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+012_2109-2349,"It is not enough, experts have already told us, to protect our planet from a potential three or four degree Celsius rise in global temperatures - with all the disastrous consequences that would have for us, our children, and our ecosystems.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+012_2353-2560,"But the fact that the world's biggest emitters have come together moves us from a ""you go first"" mentality, that had paralysed global climate negotiations for years, to an ""I will act if you will act"" frame.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+012_2561-2636,"At Lima, others must now follow and our pressure must speed up the action.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+012_2639-2744,"Because we need an agreement to tackle the climate crisis, which meets the needs of the many not the few.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+012_2745-3058,"Because it is ordinary people living in flood and drought prone areas, dependent for their livelihoods on fishing, farming and forests, or living in cities engulfed by pollution or in housing that cannot protect them from storms or heat waves, who are bearing the brunt of our experiment with the world's climate.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+012_3062-3279,"The United Nations - where every country has a voice, not matter how small, relatively poor or vulnerable - are still the only place where we can hope to secure action that takes full account of these peoples' rights.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+012_3287-3357,"At Lima, we need governments to make sure that the direction is right.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+012_3358-3478,They need to agree a goal of ending carbon pollution and deliver renewable energy for all people on this planet by 2050.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+013_0-91,The prospect of the television election debates elicits from me two incompatible responses.,FACT-TESTIMONY,ASSERTION,ASSERTION,ASSERTION
+013_91-162,"On the one hand, I believe strongly that the Greens should be invited.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+013_163-253,"If it’s on the basis of having a seat in the house, then they have the same right as Ukip.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+013_254-343,"If it’s on the grounds of polling, they have a stronger claim than the Liberal Democrats.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+013_344-445,"If it’s on the basis of who Ofcom thinks is a good chap, then Ofcom needs to have a word with itself.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+013_446-616,"I have mild views on how much of a psephological impact the debates have in the first place (some), and whether it constitutes a democratic deficit not to have them (no).",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+013_620-769,"On the other hand, I know how these debates will unfold, if indeed they do: much like a mud wrestle, without the energy, or any prospect of a winner.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+013_770-852,This election has already turned “debate” into a series of “dids!” and “didn’ts!”.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+013_853-876,“You caused the crash.”,OTHER-FORM,ASSERTION,FACT-TESTIMONY,OTHER-FORM
+013_877-886,“Didn’t.”,OTHER-FORM,ASSERTION,FACT-TESTIMONY,OTHER-FORM
+013_887-893,“Did.”,OTHER-FORM,ASSERTION,FACT-TESTIMONY,OTHER-FORM
+013_894-919,“We reduced the deficit.”,OTHER-FORM,ASSERTION,FACT-TESTIMONY,OTHER-FORM
+013_920-930,“Didn’t.”,OTHER-FORM,ASSERTION,FACT-TESTIMONY,OTHER-FORM
+013_930-936,“Did.”,OTHER-FORM,ASSERTION,FACT-TESTIMONY,OTHER-FORM
+013_937-1009,"It is beneath them to perform it, and certainly beneath us all to watch.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+013_1013-1114,"Once, finding nothing attractive forthcoming in the political offering, we could turn away to apathy.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+013_1115-1145,That was the boom-time option.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+013_1146-1276,"The idea that politicians are identical, and all we’ve got, once induced a comfortable stupor: now it feels like an anxiety dream.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+013_1280-1453,Something’s Not Right: Insecurity and an Anxious Nation is a report published today by Compass as an overview of the economic situation in which most people find themselves.,FACT-TESTIMONY,ASSERTION,ASSERTION,ASSERTION
+013_1454-1644,"Its author, Michael Orton, describes a 20-75-5 nation: there’s an intractable fifth of people in poverty, and an unaffected elite numbering approximately 5%, which has held since the 1990s.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+013_1644-1762,"The difference is that vast space in between, three-quarters of people, who are now beset by named and nameless fears.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+013_1766-1955,"There are concrete worries about debt, wages, childcare, food, energy and the impossibility of ever being a homeowner, or the inevitability of rent increases for the tenant with no options.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+013_1955-2297,"To all this is added less measurable, longer-term anxieties: that workplace security is getting weaker, that whatever is bad now will be worse for the next generation; that the new scale of indebtedness, gargantuan mortgages for those who can get them, student debts running to billions, will result in a new kind of servitude – but to whom?",ASSERTION,ASSERTION,RH-QUESTION,ASSERTION
+013_2298-2401,"The problem with the status quo, an anti-corporate campaigner said to me once, is that it’s not static.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+013_2402-2421,It’s getting worse.,OTHER-FORM,ASSERTION,ASSERTION,ASSERTION
+013_2425-2503,Not one of these fears could ever be called unreasonable – the numbers are in.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+013_2504-2619,We are clear that real median hourly wages have gone down by 10.2 percent and are now lower than they were in 1997.,FACT-TESTIMONY,ASSERTION,ASSERTION,ASSERTION
+013_2620-2711,People on average incomes are at a greater danger of falling into debt than the unemployed.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+013_2712-2815,"We are now pursuing what Orton calls “a high living cost, low income, high debt, low savings approach”.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+013_2816-2863,It’s rather tactful to call this an “approach”.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+013_2864-2911,“Hurtling off a cliff” would work just as well.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+013_2915-3118,"The prevalence of anxiety as a condition of modern life is undisputed: according to the Office of National Statistics, 20% of people rate their level of anxiety as six or more out of 10, at any one time.",FACT-TESTIMONY,ASSERTION,ASSERTION,ASSERTION
+013_3119-3202,As many as one in three will suffer from panic attacks at some point in their life.,FACT-TESTIMONY,ASSERTION,ASSERTION,ASSERTION
+013_3203-3308,"The suggested solutions are usually a triangulation of exercise, drugs and cognitive behavioural therapy.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+013_3309-3417,"In England last year, 40m prescriptions were issued for antidepressants (which includes anti-anxiety drugs).",FACT-TESTIMONY,ASSERTION,FACT-TESTIMONY,FACT-TESTIMONY
+013_3418-3485,"CBT and exercise have their disciples, but clearly aren’t panaceas.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+013_3489-3625,"There is no shortage of people – psychologists, sociologists, doctors – looking beyond the frailties of the human mind for wider causes.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+013_3626-3862,"It is commonplace to cite consumerism and its attendant evils of working too hard to fund it, and missing the things that are important, while you work – and yet however social the problem, the suggested solutions are always individual.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+013_3863-3932,Stop wanting things; stop spending; prioritise; downsize; take stock.,OTHER-FORM,ASSERTION,OTHER-FORM,OTHER-FORM
+013_3933-4011,"You can’t control the world, so try controlling your negative response to it.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+013_4014-4316,"It is also commonplace, T-shirt-sloganly common, to say that to be anxious is nothing more than a rational response to precarious conditions; but what will it take for us to build that into a set of political demands, rather than try to interrogate them away with introspection and positive self-talk?",RH-QUESTION,ASSERTION,RH-QUESTION,RH-QUESTION
+014_0-190,Campbell Newman’s LNP government won power in 2012 in a huge landslide – and polls suggest that most of those gains are expected to be swept away as Queensland politics returns to normality.,ASSERTION,ASSERTION,FACT-TESTIMONY,ASSERTION
+014_194-294,"In 2012, the sitting Labor government’s seats in the parliament were cut savagely from 51 to seven.",ASSERTION,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+014_294-349,The LNP opposition increased their seats from 34 to 78.,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+014_350-459,"In the new parliament, there were seven government members for every member of the opposition and crossbench.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+014_463-594,"Since 2012, the LNP has lost two seats to Labor at by-elections, and three other MPs elected for the LNP now sit on the crossbench.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+014_595-711,"Despite these changes, the LNP has a massive majority and a large swing will be required for a change in government.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+014_715-813,"Because of the huge swing in 2012, it’s hard to predict which seats will be the key battlegrounds.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+014_814-993,"In a normal election campaign, you would look first at the seats held by the government by the smallest margins (those seats they came closest to losing at the previous election).",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+014_997-1256,"Yet in Queensland, most LNP seats on slim margins are seats traditionally considered to be “safe” Labor seats – if Labor has any chance of taking power, you would expect those seats to fall easily and the election to focus on seats further along the pendulum.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+014_1260-1352,"At the last election, it was estimated that the LNP won 62.8% of the vote after preferences.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+014_1353-1418,Recent polls indicate there has been a large swing back to Labor.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+014_1419-1483,The most recent Newspoll had Labor and the LNP tied on 50% each.,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+014_1487-1617,"These polls suggest that Labor is in with a chance of winning the election, despite the massive number of seats they need to gain.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+014_1618-1764,"In order to ward off this threat, the LNP will likely need to sacrifice many of its seats in order to focus energy on those seats they can retain.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+014_1768-1873,Labor needs a uniform swing of approximately 12.5% to win the 36 extra seats they need to win a majority.,FACT-TESTIMONY,FACT-TESTIMONY,ASSERTION,FACT-TESTIMONY
+014_1874-2122,"Current polling suggests that Labor is close to that number, and this suggests that most of the seats that will be key battlegrounds are seats the LNP now holds by margins of 10-15%, but there will be seats that swing more or less than the average.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+014_2126-2348,"If you focus on those with margins of between 10% and 15%, there are a smattering of seats in Brisbane, as well as four seats on the Gold Coast, one on the Sunshine Coast, one in Townsville and two rural seats near Mackay.",OTHER-FORM,FACT-TESTIMONY,ASSERTION,FACT-TESTIMONY
+014_2352-2470,"In addition, the LNP will be fighting on another front against populist and right-wing independents and minor parties.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+014_2471-2551,The Palmer United Party and Katter’s Australian Party will both be running hard.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+014_2552-2629,"KAP now holds three seats, and there are four independents in the Parliament.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+014_2633-2766,"While many seats will be in play, Ashgrove in northern Brisbane – Campbell Newman’s seat – is likely to be the focus of the campaign.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+014_2770-2818,The premier won the seat off Kate Jones in 2012.,FACT-TESTIMONY,FACT-TESTIMONY,ANECDOTE,FACT-TESTIMONY
+014_2819-2936,Newman had never held a seat in parliament before winning power in 2012 – he made his name as lord mayor of Brisbane.,FACT-TESTIMONY,FACT-TESTIMONY,ANECDOTE,FACT-TESTIMONY
+015_0-190,An international study released last week has identified that those who work more than 48 hours a week are 11% more likely to drink alcohol at risk levels than those working a standard week.,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+015_194-310,"The study was compiled by Finnish researchers, sampling 300,000 subjects across Europe, Australia and North America.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+015_311-448,Health guidelines suggest that consumption of more than 14 drinks a week for women and 21 drinks for men poses a significant health risk.,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+015_452-560,It’s no surprise that it’s a team of Finnish researchers who are examining the stats around unsafe drinking.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+015_561-791,"Nordic Finland may be a well-known haven of progressive social policy, with an enviable living standard, cradle-to-grave welfare and the world’s best education system, but there is one social problem the Finns have not yet licked.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+015_791-1016,"Alcohol-related illnesses and incidents (including accidents, violence and suicide in which alcohol has factored) are the most common cause of death for both working age men and women there – and have been so for many years.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+015_1020-1135,"The study is of useful consideration for Australians, of course – we’re afflicted with alcohol problems of our own.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+015_1136-1303,Australian research released only last July revealed up to 15 people die and more than 430 are admitted to hospital every day in Australia for alcohol-related reasons.,FACT-TESTIMONY,ASSERTION,FACT-TESTIMONY,FACT-TESTIMONY
+015_1304-1405,"That’s 5,554 deaths and 157,132 hospital admissions a year, and four times the rate of the road toll.",FACT-TESTIMONY,ASSERTION,FACT-TESTIMONY,FACT-TESTIMONY
+015_1409-1506,That working longer hours has a detrimental effect on an individual’s health is well established.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+015_1507-1807,"Some have suggested from the results of the Finnish study that alcohol abuse is symptomatic of the “work hard, play hard” cultures around professions – especially because workers who shifted into longer-hours jobs during the study were 12% more likely to develop risky drinking habits as a result.",ASSERTION,ASSERTION,FACT-TESTIMONY,ASSERTION
+015_1808-1971,Some have also suggested that the scarcity of leisure time for people who work long hours may result in habits of using alcohol as a concentrated form of relaxant.,ASSERTION,ASSERTION,FACT-TESTIMONY,ASSERTION
+015_1972-2183,"This is the opinion of Cassandra A. Okechukwu, assistant professor at the Harvard School of Public Health who declared of the Finnish findings that “people are self-medicating” due to work-life time constraints.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+015_2187-2345,"Alternatively, Dr Richard Wise, psychologist at Windana Drug and Alcohol Recovery, believes the relationship between work and drinking may be bi- directional.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+015_2346-2497,"“As stress increases the activity of brain regions responsible for drug seeking and craving, stressful work is often ‘addictive’ in itself,” says Wise.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+015_2498-2633,"“This could be a self-perpetuating cycle – work causes stress, which renders people more prone to addictions to substances and work.”",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+015_2635-2914,"Significantly, the study itself does not claim to prove a causation – leaving open the possibility to discuss the pink elephant that lurks in the room behind all social discussions of problem drinking: the prevalent, if sometimes well-camouflaged, existence of actual alcoholics.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+015_2918-3102,"Writing in Business Insider, journalist Kevin Loria asked of the study: “Long hours may not cause dangerous drinking, but why is there a relationship between those two things at all?”",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+015_3102-3183,"The answer is this: there is not one clear relationship, but potentially several.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+015_3184-3313,"We know, for example, that those suffering active alcoholism seek out environments that facilitate and camouflage their drinking.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+015_3313-3355,Why would the workplace be an exception?,RH-QUESTION,RH-QUESTION,RH-QUESTION,RH-QUESTION
+015_3358-3582,"Demanding jobs not only deliver alcoholics out of the worksite just in time for socially-acceptable drinking hours, but the stresses associated with long- hours work provide pretexts aplenty for “self-medicating” with booze.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+015_3582-3749,"Our community continues to excuse the practise of drowning one’s sorrows, but forgotten is that active alcoholics often go looking for sorrows in order to drown them.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+015_3753-3950,The recovery community calls this phenomenon “drinking on it” – it’s not hard to find a pretext to slam down some craved-for cold ones at the end of the day if you’ve just spent 10 hours at a desk.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+015_3951-4089,"And if there’s one thing an alcoholic can use to deny the extent of their drinking, it’s the company of others who share the same problem.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+015_4090-4207,The common logic of alcohol addiction brings alcoholics together in work environments as much as it does social ones.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+016_0-116,"FILE -- Sept. 18, 2007: The flags of member nations fly outside of the United Nations headquarters in New York. (AP)",OTHER-FORM,NON-ARGUMENT,NON-ARGUMENT,NON-ARGUMENT
+016_120-308,"Tomas Mamani, of La Paz, Bolivia, left, poses for a photo with Nyasha Zimucha, a native of South Africa now living in New York, outside United Nations headquarters, Monday, Sept. 22, 2014.",FACT-TESTIMONY,NON-ARGUMENT,NON-ARGUMENT,NON-ARGUMENT
+016_309-376,The World Conference on Indigenous Peoples began Monday at the U.N.,FACT-TESTIMONY,NON-ARGUMENT,NON-ARGUMENT,NON-ARGUMENT
+016_377-423,(AP Photo/Jason DeCrow) (The Associated Press),NON-ARGUMENT,NON-ARGUMENT,NON-ARGUMENT,NON-ARGUMENT
+016_427-562,"Tomas Mamani, of La Paz, Bolivia, looks at his camera after taking a photo outside United Nations headquarters, Monday, Sept. 22, 2014.",FACT-TESTIMONY,NON-ARGUMENT,NON-ARGUMENT,NON-ARGUMENT
+016_563-630,The World Conference on Indigenous Peoples began Monday at the U.N.(AP Photo/Jason DeCrow) (The Associated Press),FACT-TESTIMONY,NON-ARGUMENT,FACT-TESTIMONY,FACT-TESTIMONY
+016_681-735,Defaulting on sovereign debt is never a good strategy.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+016_736-755,Just ask Argentina.,OTHER-FORM,OTHER-FORM,OTHER-FORM,OTHER-FORM
+016_756-919,The South American nation has defaulted 10 times—most recently this summer—on its international obligations and has experienced sharp economic decline as a result.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+016_920-1003,"In the early 1900s, Argentina ranked among the world’s top 10 in per capita income.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+016_1004-1035,"By 2012, it had fallen to 55th.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+016_1039-1298,"Rather than learn anything from this unhappy history, however, Argentina is opting for stubbornness, bullying and intimidation of its debt-holders, all with a helping hand from the United Nations, as it refuses to pay back bondholders for billions of dollars.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+016_1302-1315,ADVERTISEMENT,NON-ARGUMENT,NON-ARGUMENT,None,NON-ARGUMENT
+016_1319-1332,ADVERTISEMENT,NON-ARGUMENT,NON-ARGUMENT,None,NON-ARGUMENT
+016_1336-1449,What Argentina wants is to establish “a multilateral legal framework for sovereign debt restructuring processes.”,FACT-TESTIMONY,ASSERTION,ASSERTION,ASSERTION
+016_1450-1673,"Such a multilateral endeavor -- established, run, and funded by governments -- will no doubt be more sympathetic to financial deadbeats like Argentina than a U.S. court that has to give equal standing to the private sector.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+016_1677-1971,"It’s also the kind of thing that the United Nations loves to endorse: high- minded and technical sounding, larded with ostensible respect for international legal processes, and standing above any single national interest—with absolutely no chance whatsoever that it will be any of these things.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+016_1975-2164,"Sure enough, Argentina has successfully rallied a majority of U.N. member nations to join in denouncing Argentina’s debt holders and endorsing its multilateral debt restructuring framework.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+016_2164-2273,"This September the U.N. General Assembly voted 124-11, with 41 abstentions, to support Argentina’s position.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+016_2277-2382,"The U.N. Human Rights Council soon followed suit, adopting a similar resolution 33-5, with 9 abstentions.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+016_2382-2612,"The notorious Council, which includes some of the world’s worst human rights violators in its membership, got involved because it says excessive debt is an impediment to full realization of “social, economic and cultural” rights.",ASSERTION,ASSERTION,FACT-TESTIMONY,ASSERTION
+016_2616-2862,"It is certainly true that debt defaults take a huge toll because the defaulting country loses access to international financial markets and foreign exchange, limiting its ability to finance expenditures and obligations and pay for imported goods.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+016_2863-2931,The end result is typically sharp recession and rising unemployment.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+016_2932-3039,"But Argentina’s latest default is is different from earlier defaults, which were driven by economic crises.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+016_3040-3201,"The 2014 crisis, though rooted in a previous $100 billion default that occurred 13 years ago, is a deliberate—and unnecessary—choice of the Argentine government.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+016_3205-3316,"In 2005 and 2010, Argentina offered to exchange bonds that it had defaulted on at about 35 cents on the dollar.",FACT-TESTIMONY,ASSERTION,FACT-TESTIMONY,FACT-TESTIMONY
+016_3316-3381,"Eventually, about 93 percent of debt holders agreed to the swap.",FACT-TESTIMONY,ASSERTION,FACT-TESTIMONY,FACT-TESTIMONY
+016_3382-3511,"Some debt holders, however, held out and went to U.S. court arguing that Argentina had to pay them the full value of their bonds.",FACT-TESTIMONY,ASSERTION,FACT-TESTIMONY,FACT-TESTIMONY
+016_3512-3658,"In 2012, a U.S. judge ruled in their favor and further ruled that any financial institution that assisted in partial payment would be in contempt.",FACT-TESTIMONY,ASSERTION,FACT-TESTIMONY,FACT-TESTIMONY
+016_3662-3824,"Following the court’s ruling, Argentina could have complied or at least paid interest on the bonds while trying to renegotiate a more favorable debt arrangement.",ASSERTION,ASSERTION,FACT-TESTIMONY,ASSERTION
+016_3824-3968,"Instead, this summer it decided to pay nothing, abandon negotiations, and rely on demagoguery to press its case in the court of public opinion.",ASSERTION,ASSERTION,FACT-TESTIMONY,ASSERTION
+016_3971-4049,Argentina has denounced its debt holders—shrilly and often—as “vulture” funds.,ASSERTION,ASSERTION,FACT-TESTIMONY,ASSERTION
+016_4050-4179,"Of course, it never mentions that it was Argentina that voluntarily issued the debt in the first place, presumably in good faith.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+016_4180-4305,Nor does it acknowledge that the government’s own reckless economic policies precipitated the debt crisis in the first place.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+016_4309-4417,"If you think that sort of dishonest name-calling would fall on deaf ears, you don’t know the United Nations.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+016_4418-4555,Argentina’s success in rallying a majority of U.N. member nations to join in denouncing the debt holders results from an underlying fact.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+016_4556-4843,"At the U.N. the agenda of many developing nations consists of blaming others for the consequences their poor economic choices and demanding that the developed nations provide more aid, less accountability for money already given, and no right to object when feckless countries misbehave.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+016_4847-4921,The U.N. resolutions in support of Argentina do not have the force of law.,FACT-TESTIMONY,ASSERTION,ASSERTION,ASSERTION
+016_4922-5087,But the intended goal is clearly to establish a “a multilateral legal framework for sovereign debt restructuring processes” via a treaty or international convention.,ASSERTION,ASSERTION,FACT-TESTIMONY,ASSERTION
+017_0-145,Argentina has chosen a certain path for development that is diametrically opposed to what is required to mitigate the problems of climate change.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+017_145-277,"And as Argentinean representatives attend the Climate Change Summit in Peru, it’s worth looking at its poor environmental record.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+017_279-450,"Average temperature in the southern region of Patagonia has increased one degree Celsius in the last 50 years, provoking the retreat of the largest glaciers in the region.",FACT-TESTIMONY,ASSERTION,FACT-TESTIMONY,FACT-TESTIMONY
+017_451-655,"During the same period, rains increased by 10 percent in the east; severe flooding in northeastern Argentina has been linked to the change in the use of the land and the deterioration of local ecosystems.",FACT-TESTIMONY,ASSERTION,FACT-TESTIMONY,FACT-TESTIMONY
+017_656-799,"In addition, the country has suffered from increased sea levels, reduction in fresh water bodies, desertification, severe storms and tornadoes.",FACT-TESTIMONY,ASSERTION,FACT-TESTIMONY,FACT-TESTIMONY
+017_803-930,"Argentina has a rate of deforestation of 0.8 percent per year - twice that of the Amazon region, or about 26 hectares per hour.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+017_931-1069,"Despite the Forest Act coming into force in February 2009, over one million hectares of native woods were destroyed between 2009 and 2012.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+017_1070-1228,The Forest Act budget for 2015 has been set at just 300 million pesos ($27m) instead of the 3.1 billion pesos ($364m) as requested by environmental activists.,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+017_1229-1365,"The national government has consistently failed to properly fund the implementation of the Forest Act, making it completely ineffective",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+017_1368-1628,"Local governments continue to authorise the deforestation of protected woods at the request of local landowners, generating a serious environmental impact, the displacement of indigenous and peasant populations and the persecution of environmental activists",ASSERTION,ASSERTION,FACT-TESTIMONY,ASSERTION
+017_1629-1891,"While high temperatures continue to push the consumption of electricity to record levels and demand for electricity is set to grow at an average of 5.5 percent per year, Argentina is far from achieving its target of 8 percent renewable energy generation by 2016.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+017_1892-1991,"In 2013, investment for smaller scale hydro clean energy fell 70 percent from $2.7bn to just $153m.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+017_1992-2086,"At the end of 2012, only 1.4 percent of all electricity produced was from renewable resources.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+017_2090-2288,"Meanwhile in 2013, the Supreme Court lifted an embargo on Chevron's assets in Argentina, so it could enter into an agreement to exploit the shale gas site at Vaca Muerta, in the province of Neuquen.",ASSERTION,FACT-TESTIMONY,ASSERTION,ASSERTION
+017_2288-2403,"Chevron, which has been condemned by courts in Ecuador for environmental damage, has pledged $1.5bn to develop it.",FACT-TESTIMONY,ASSERTION,FACT-TESTIMONY,FACT-TESTIMONY
+017_2403-2487,"Each of the 1,500 planned fracking wells will use up to 12 million litres of water.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+017_2488-2629,The Mapuche indigenous communities living nearby oppose the development as it will increase contamination of their subterranean water supply.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+017_2633-2890,"Argentina is the third largest producer of soy after the US and Brazil, exporting practically all of its production to Europe and China and providing much needed revenue for the government at a time when it faces increased demands to pay its external debts.",ASSERTION,FACT-TESTIMONY,ASSERTION,ASSERTION
+017_2894-3085,The use of soy for biofuels has promoted deforestation and its expansion has generated enormous greenhouse gas emissions due to the loss of forest mass and the changes in the use of the land.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+017_3089-3309,"Thanks to a reduction in the taxation of biofuel exports and other tax incentives, the production of biodiesel reached a historical record in September 2014, totalling nearly 1.9m tonnes in the first nine months of 2014.",ASSERTION,ASSERTION,FACT-TESTIMONY,ASSERTION
+018_0-98,"For Armenia, its role as a reliable partner and ally of Russia has never faced any real challenge.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+018_99-183,Much of this reliance on Russia stems from essential security and economic concerns.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+018_187-427,"Armenia's security reliance on Russia is driven by a virtual state of war with neighbouring Azerbaijan, rooted in the Nagorno-Karabakh conflict, only exacerbated by the absence of ""normal"" diplomatic relations and closed border with Turkey.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+018_428-534,"And with the Turkish refusal to recognise the Armenian genocide, this threat perception is only magnified.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+018_538-677,"For small, landlocked Armenia, a strategic alliance with Russia is generally accepted as essential in the face of such inherent insecurity.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+018_677-861,"And beyond an imperative of security, Armenia also depends on Russia as a crucial source of remittances, or money sent home by large numbers of Armenians living and working in Russia.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+018_865-1027,"Yet, there is a surprisingly intense debate now under way within Armenia that seriously questions these fundamental pillars of the Armenian-Russian relationship.",ASSERTION,ASSERTION,FACT-TESTIMONY,ASSERTION
+018_1030-1043,New challenge,NON-ARGUMENT,NON-ARGUMENT,NON-ARGUMENT,NON-ARGUMENT
+018_1047-1186,"More specifically, this new challenge to Armenia's traditional reliance on Russia is driven by two significant factors: tragedy and timing.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+018_1194-1384,"A tragedy first triggered this turnabout when a rogue Russian soldier killed an entire Armenian family, save for a six-month-old infant who later died of his stab wounds, in Gyumri, Armenia.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+018_1388-1474,Gyumri is the country's second-largest city and the host of the Russian military base.,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+018_1478-1628,"That senseless act of random violence in the early morning hours of January 12, sparked an immediate and spontaneous outpouring of grief and mourning.",ASSERTION,FACT-TESTIMONY,ASSERTION,ASSERTION
+018_1632-1821,"But the initial shock and grief quickly turned to outrage, as Russian military officials seemed to take charge of the case with a heavy-handed disdain and disregard for local sensitivities.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+018_1825-1913,That perception was only deepened when Armenian officials were slow to respond or react.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+018_1917-2080,"It was this mishandling of the tragedy, even more than the murder itself, that then triggered a series of demonstrations and protests by local Armenians in Gyumri.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+018_2084-2304,"Fearing that the Russian conscript would be moved from his detention within the Russian base and likely returned to Moscow, local residents demanded that the self-confessed soldier be turned over to Armenian authorities.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+018_2308-2325,Calming tensions,NON-ARGUMENT,NON-ARGUMENT,NON-ARGUMENT,NON-ARGUMENT
+018_2328-2640,"For its part, local Armenian officials and the prosecutor general scurried to calm tensions by first announcing that Armenian investigators were actively participating in the interrogation of the soldier, and then, once that did little to appease the protesters, vowed that the soldier would be tried in Armenia.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+018_2644-2895,"Amid the Armenian officials' wrangling over the legal process of the case, the absence of any higher level Armenian officials, and the failure of the Armenian president to declare a day of mourning or even make a statement, only escalated the tension.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+018_2899-3090,"And days later, no Armenian official attended the funeral of the murdered family, thereby triggering a fresh wave of indignant protests in the city, that later spread to the capital, Yerevan.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+018_3091-3269,The protests soon moved to the Russian consulate in Gyumri before culminating in a march on the Russian base as protesters broke through a police cordon to enter the base itself.,ASSERTION,FACT-TESTIMONY,ASSERTION,ASSERTION
+018_3273-3325,"Yet, there is a deeper context to this public anger.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+018_3326-3459,"In fact, that family is only the latest victim in murders and shootings by Russian servicemen stationed at the Russian military base.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+018_3463-3584,"In 1999, two drunk Russian soldiers opened fire on a local market in the city, killing two and injuring dozens of others.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+018_3585-3718,"And in 2013, two children were killed by unexploded ordnance on an unguarded tank firing range on the premises of the Russian base.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+018_3720-3730,Bad timing,NON-ARGUMENT,NON-ARGUMENT,NON-ARGUMENT,NON-ARGUMENT
+021_0-57,Former Atlanta Fire Chief Kelvin Cochran (Fox 5 Atlanta),NON-ARGUMENT,NON-ARGUMENT,None,NON-ARGUMENT
+021_60-146,Kelvin Cochran was five-years-old when he realized that he wanted to be a firefighter.,FACT-TESTIMONY,ANECDOTE,FACT-TESTIMONY,FACT-TESTIMONY
+021_150-199,"“My family was very, very poor,” Cochran told me.",FACT-TESTIMONY,ANECDOTE,FACT-TESTIMONY,FACT-TESTIMONY
+021_200-291,"“We were living in a shotgun house in an alley – three big brothers, two little sisters.”",FACT-TESTIMONY,ANECDOTE,FACT-TESTIMONY,FACT-TESTIMONY
+021_293-306,ADVERTISEMENT,NON-ARGUMENT,NON-ARGUMENT,None,NON-ARGUMENT
+021_310-323,ADVERTISEMENT,NON-ARGUMENT,NON-ARGUMENT,None,NON-ARGUMENT
+021_327-427,One Sunday afternoon the Cochran children heard a fire truck stop across from their neighbor’s home.,ANECDOTE,ANECDOTE,FACT-TESTIMONY,ANECDOTE
+021_428-461,Miss Maddie’s house was one fire.,FACT-TESTIMONY,ANECDOTE,FACT-TESTIMONY,FACT-TESTIMONY
+021_465-579,"“That’s the day that God convicted me in my heart that I wanted to be a firefighter when I grew up,” Cochran said.",FACT-TESTIMONY,ANECDOTE,FACT-TESTIMONY,FACT-TESTIMONY
+021_580-670,“All I thought about growing up in Shreveport was not being poor and being a firefighter.”,FACT-TESTIMONY,ANECDOTE,FACT-TESTIMONY,FACT-TESTIMONY
+021_674-730,And God granted Kelvin Cochran the desires of his heart.,ASSERTION,ANECDOTE,ASSERTION,ASSERTION
+021_731-814,The little boy in the shotgun shack grew up to become the fire chief of Shreveport.,FACT-TESTIMONY,ANECDOTE,ANECDOTE,ANECDOTE
+021_814-970,He was named the Atlanta fire chief in 2008 – a position he served until 2009 when was called to serve in the Obama Administration as a fire administrator.,FACT-TESTIMONY,ANECDOTE,FACT-TESTIMONY,FACT-TESTIMONY
+021_971-1078,In 2010 he returned to Atlanta where he was unanimously confirmed to once again be the city’s fire chief.,FACT-TESTIMONY,ANECDOTE,FACT-TESTIMONY,FACT-TESTIMONY
+021_1080-1219,But now Chief Cochran’s storied career is up in smoke – all because of a book he wrote for a men’s Bible study group at his Baptist church.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+021_1223-1293,CLICK HERE TO FOLLOW TODD ON FACEBOOK FOR CONSERVATIVE CONVERSATION!,NON-ARGUMENT,NON-ARGUMENT,None,NON-ARGUMENT
+021_1295-1366,Atlanta Mayor Kasim Reed announced Tuesday that Cochran had been fired.,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+021_1367-1474,The announcement came on the same day Cochran was supposed to return to work following a 30-day suspension.,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+021_1478-1714,"“The LGBT members of our community have a right to be able to express their views and convictions about sexuality and deserve to be respected for their position without hate or discrimination,” Cochran told me in an exclusive interview.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+021_1715-1976,"“But Christians also have a right to express our belief regarding our faith and be respected for our position without hate and without discrimination. In the United States, no one should be vilified, hated or discriminated against for expressing their beliefs.”",FACT-TESTIMONY,FACT-TESTIMONY,ASSERTION,FACT-TESTIMONY
+021_1980-2122,"Cochran had been suspended in November because of a passage he wrote about homosexuality in a book titled, “Who Told You That You Were Naked?”",FACT-TESTIMONY,FACT-TESTIMONY,RH-QUESTION,FACT-TESTIMONY
+021_2123-2167,The book’s theme is about biblical morality.,ASSERTION,ASSERTION,FACT-TESTIMONY,ASSERTION
+021_2170-2247,"“This is about judgment,” Mayor Reed said during a Tuesday press conference.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+021_2248-2356,“This is not about religious freedom. This is not about free speech. Judgment is the basis of the problem.”,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+021_2359-2460,Last November the mayor posted a public condemnation of the fire chief on his official Facebook page.,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+021_2464-2608,"“I profoundly disagree with and am deeply disturbed by the sentiments expressed in the paperback regarding the LGBT community,” the mayor wrote.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+021_2609-2684,“I will not tolerate discrimination of any kind within my administration.”,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+021_2687-2827,The mayor went on to inform the public that Cochran had been suspended without pay and was ordered to complete a sensitivity training class.,ASSERTION,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+021_2830-3150,"“I want to be clear that the material in Chief Cochran’s book is not representative of my personal beliefs, and is inconsistent with the Administration’s work to make Atlanta a more welcoming city for all of her citizens -- regardless of their sexual orientation, gender, race and religious beliefs,” Mayor Reed wrote.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+021_3153-3250,So what in the world did Cochran write that was so offensive to the mayor and the LGBT community?,RH-QUESTION,RH-QUESTION,RH-QUESTION,RH-QUESTION
+021_3254-3787,"According to the GA Voice, a publication that covers the LGBT community, there were two items that caused concern:    “Uncleanness – whatever is opposite of purity; including sodomy, homosexuality, lesbianism, pederasty, bestiality, all other forms of sexual perversion.”    “Naked men refuse to give in, so they pursue sexual fulfillment through multiple partners, with the opposite sex, the same sex, and sex outside of marriage and many other vile, vulgar and inappropriate ways which defile their body – temple and dishonor God.”",FACT-TESTIMONY,FACT-TESTIMONY,ASSERTION,FACT-TESTIMONY
+021_3791-3881,Cochran said he referenced homosexuality on less than a half a page in the 160-page book.,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+021_3884-3930,"“I did not single out homosexuality,” he said.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+021_3931-4110,‘I simply spoke to sex being created by God for pro-creation and He intended it to be between a man and a woman in holy matrimony – and that any other sex outside of that is sin.”,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+021_4114-4248,Cochran told me that someone within the department obtained a copy of the book and took it to openly-gay city council member Alex Wan.,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+021_4252-4448,Wan released a statement supporting Cochran’s termination and said it “sends a strong message to employees about how much we value diversity and how we adhere to a non-discriminatory environment.”,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+021_4452-4599,The book caused a firestorm within Atlanta’s LGBT community and there were many calls for him to be fired – a decision the mayor finally agreed to.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+021_4603-4658,"“I guess they got what they asked for,” Cochran said.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+021_4660-4793,Georgia Equality Executive Director Jeff Graham told GA Voice Cochran’s “anti- gay” views could result in a hostile work environment.,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+021_4797-4901,"“This is not about his religious views but his about his ability to lead a diverse work force,” he said.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+021_4902-5033,“It’s unfortunate that this had to happen. I feel the mayor has done the right thing to ensure all employees are treated fairly.”,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+021_5035-5133,"The allegations against Cochran amount to a he-said, he-said between the fire chief and the mayor.",ASSERTION,ASSERTION,FACT-TESTIMONY,ASSERTION
+021_5136-5204,Reed said that he had no knowledge that Cochran was writing a book.,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+021_5205-5391,"However, Cochran said the director of Atlanta’s ethics office had not only given him permission to write the book, but to also mention in his biography that he was the city’s fire chief.",FACT-TESTIMONY,FACT-TESTIMONY,ANECDOTE,FACT-TESTIMONY
+021_5395-5538,"Cochran said he gave a copy of the book to Mayor Reed in January, 2014 and the mayor told him he planned on reading it during an upcoming trip.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+021_5542-5692,Cochran also admitted that he gave copies of the book to several members of the fire department – individuals with whom he had personal relationships.,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+021_5695-5774,The mayor also took issue with Cochran speaking publicly about his suspension.,ASSERTION,ASSERTION,FACT-TESTIMONY,ASSERTION
+021_5775-5860,"However, Cochran said he honored the mayor’s guidance and did not speak to the media.",FACT-TESTIMONY,FACT-TESTIMONY,ANECDOTE,FACT-TESTIMONY
+021_5861-5918,"He did, however, share his testimony in several churches.",ASSERTION,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+021_5922-5979,"“I did not dishonor him in the process,” Cochran told me.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+021_5983-6040,Cochran wants to make clear that he does not hate anyone.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+021_6044-6126,"“The essence of the Christian faith is a love without condition, sir,” he told me.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+021_6127-6377,“I have demonstrated that love in the fire service for 34 years. There’s not any person of any people group that has interacted with me for any measure of time that can say I have hate or disregard or discrimination in my heart for any people group.”,FACT-TESTIMONY,FACT-TESTIMONY,ASSERTION,FACT-TESTIMONY
+021_6381-6523,Cochran’s plight has drawn condemnation from a number of religious groups across Georgia including the influential Georgia Baptist Convention.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+021_6527-6611,"“This is appalling,” said Robert White, president of the Georgia Baptist Convention.",FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY,FACT-TESTIMONY
+022_0-228,You would be forgiven for thinking that centuries of human society would mean that we were now at a stage where we didn’t need help finding another human being whom we could bear to be around and who wanted to get naked with us.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+022_229-255,But you would be mistaken.,OTHER-FORM,ASSERTION,ASSERTION,ASSERTION
+022_256-355,It seems as time progresses we need more and more tactics for tricking someone into a relationship.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+022_356-485,"Some people need pickup artists to help them manipulate women, others think “science” will provide the 21st-century love potion.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+022_488-629,"In the latest use of scientists’ time, they have found that eating dessert on a date increases the likelihood that there’ll be a second date.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+022_630-803,"This research is flawed on a number of levels, not least because you shouldn’t have a meal on a first date: too many food-related potential disasters and not enough alcohol.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+022_803-945,"Plus, if you’re on a date with a diabetic, you could be responsible for putting them into a coma, which is likely to hamper the relationship.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+022_948-1029,"Instead, here are some further helpful dos and don’ts when it comes to dating:",OTHER-FORM,ASSERTION,ASSERTION,ASSERTION
+022_1031-1055,1) Don’t call it dating.,ASSERTION,ASSERTION,OTHER-FORM,ASSERTION
+022_1056-1100,It’s a horrible word and a horrible concept.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+022_1100-1207,"Instead, think of it as going for a drink or to a gallery or whatever, and there being someone else there.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+022_1208-1305,This relieves the pressure to be attractive and the crushing disappointment that comes with it.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+022_1307-1323,2) Do get drunk.,ASSERTION,ASSERTION,OTHER-FORM,ASSERTION
+022_1324-1353,There is no downside to this.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+022_1354-1390,"OK, there are a couple of downsides.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+022_1391-1606,"The trick is to get drunk enough to be hilariously funny, intelligent and confident but not so drunk that you lower your standards and impair your ability to get the hell out of there if it becomes boring or creepy.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+022_1607-1727,"Even if you get so drunk that you dance on a table, start crying or vomit into your lap, you can always blame the booze.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+022_1728-1813,"If you don’t drink, then I’m afraid there is nothing I can do for you: best of luck.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+022_1816-1849,3) Don’t be too self-deprecating.,ASSERTION,ASSERTION,OTHER-FORM,ASSERTION
+022_1849-2156,"It is a good idea to show that you don’t take yourself too seriously and it can be endearing, but keep it to the stories about giving a presentation with your skirt/shirt tucked into your knickers/Y-fronts or when you had a conversation about nobody taking you seriously while you had mustard on your face.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+022_2157-2236,Save the stories about when you soiled yourself until at least the fourth date.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+022_2236-2335,You don’t want to waste these comedy gold stories on someone you might only see a couple of times.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+022_2336-2453,"When it comes to defecating stories, you don’t want to unload your A-list stories on someone who might not be worthy.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+022_2454-2524,"This is a journey of discovery, so temporarily hold some mystery back.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+022_2528-2558,4) Do find out their politics.,ASSERTION,ASSERTION,OTHER-FORM,ASSERTION
+022_2559-2627,Life is too short to waste on someone who thinks Hitler had a point.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+022_2628-2853,"It is good to surround yourself with people with different views to your own because arguments are fun, but everyone has their red-line issues and you might as well shake them down on these before you spend too much on booze.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+022_2853-3086,"So try to turn the conversation round to Ched Evans, free speech or the order of greatness of the Star Wars films (which for reference is: episode V, episode IV, Episode VI, episodes I-III don’t exist and should never be mentioned).",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+022_3087-3192,"If you feel they’re wildly wrong on any of these subjects, shriek that you’ve left the oven on and run.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+022_3194-3236,5) Don’t talk about your ex(es) all night.,ASSERTION,ASSERTION,OTHER-FORM,ASSERTION
+025_0-146,"Dec. 30, 2014: A costumed character dressed as the Statue of Liberty stands in a quiet area of Times Square in New York. (AP Photo/Kathy Willens)",NON-ARGUMENT,NON-ARGUMENT,NON-ARGUMENT,NON-ARGUMENT
+025_149-250,New Year’s resolutions often lose their power so quickly and completely that they have become cliché.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+025_251-343,"But there are real, easily achieved ways to positively impact your life beginning January 1.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+025_343-378,I’ve assembled a cheat sheet of 15.,ASSERTION,OTHER-FORM,NON-ARGUMENT,OTHER-FORM
+025_379-454,"They aren’t in any particular order, so you can pick any one to start with.",ASSERTION,OTHER-FORM,NON-ARGUMENT,OTHER-FORM
+025_458-544,"If you complete just five, you’ll notice a demonstrable improvement in your existence.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+025_544-603,"But if you get through all 15, you could remake your life.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+025_607-620,ADVERTISEMENT,NON-ARGUMENT,NON-ARGUMENT,None,NON-ARGUMENT
+025_624-638,ADVERTISEMENT,NON-ARGUMENT,NON-ARGUMENT,None,NON-ARGUMENT
+025_641-817,1\. Try to recall one dream you had as a kid — whether it was being a poet or a rock drummer or a multimillionaire stock trader — and take just a single step in that direction.,ASSERTION,ASSERTION,OTHER-FORM,ASSERTION
+025_818-907,"So often, the ideas we had as children were good ones, and we abandoned them out of fear.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+025_907-1080,"The step in the direction of your childhood dream can be very modest — signing up for a symposium on poetry, scheduling a single drum lesson, buying a DVD on stock trading.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+025_1081-1164,Frozen dreams have a way of thawing out rapidly when you warm them just a tiny bit.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+025_1168-1293,"2\. Think of your life story, going all the way back to infancy, as an autobiographical book that you can hold in your hands.",ASSERTION,ASSERTION,OTHER-FORM,ASSERTION
+025_1293-1385,"Now, imagine which page or paragraph you are tempted to tear out and remove from the story.",ASSERTION,ASSERTION,OTHER-FORM,ASSERTION
+025_1386-1495,That page or paragraph might be the one that makes you feel profoundly sad or powerless or guilty or ashamed.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+025_1495-1602,"Next, share it with someone who knows you well but has never heard about that event or phase in your life.",ASSERTION,ASSERTION,OTHER-FORM,ASSERTION
+025_1602-1727,Being willing to disclose the events in life we want to turn a blind eye to takes away the power those events have over us.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+025_1730-1845,3\. Give a meaningful gift to a friend of yours on a random day — not his birthday or her anniversary or Christmas.,ASSERTION,ASSERTION,OTHER-FORM,ASSERTION
+025_1846-1941,"Giving gifts on those days is fine, but that isn’t the same as an unexpected, unscheduled gift.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+025_1942-2046,Those are the ones that feel riskier to give and have more power to bond you to others who receive them.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+025_2047-2152,"And that’s because they’re real and independent expressions of friendship, affection, admiration or love.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+025_2156-2342,"4\. Send handwritten notes to three people you admire most in the world, no matter how powerful or famous, tell them sincerely exactly why you admire them and ask to meet for 10 minutes.",ASSERTION,ASSERTION,OTHER-FORM,ASSERTION
+025_2343-2407,There’s a real chance one of them will take you up on the offer.,ASSERTION,ASSERTION,ASSERTION,ASSERTION
+025_2408-2531,"And that one meeting could change you, because great energy is contagious and being in the company of it can stay with you.",ASSERTION,ASSERTION,ASSERTION,ASSERTION
+025_2535-2613,5\. Give some amount (no matter how small) to the charity you care most about.,ASSERTION,ASSERTION,OTHER-FORM,ASSERTION
+025_2613-2748,"Giving is a miracle, because it helps others while also telling your unconscious mind that yours is a life of abundance, not scarcity.",ASSERTION,ASSERTION,ASSERTION,ASSERTION

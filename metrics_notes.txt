@@ -1,0 +1,124 @@
+# Plain bag of words
+
+                precision    recall  f1-score   support
+
+      ANECDOTE       0.50      1.00      0.67         1
+     ASSERTION       0.82      0.87      0.84        31
+FACT-TESTIMONY       0.33      0.14      0.20         7
+  NON-ARGUMENT       0.00      0.00      0.00         1
+    OTHER-FORM       0.00      0.00      0.00         0
+   RH-QUESTION       0.00      0.00      0.00         0
+
+     micro avg       0.72      0.72      0.73        40
+     macro avg       0.28      0.34      0.29        40
+  weighted avg       0.70      0.72      0.71        40
+  
+# Removing count 1 or count 2 words
+
+                precision    recall  f1-score   support
+
+      ANECDOTE       0.50      1.00      0.67         1
+     ASSERTION       0.82      0.87      0.84        31
+FACT-TESTIMONY       0.33      0.14      0.20         7
+  NON-ARGUMENT       0.00      0.00      0.00         1
+    OTHER-FORM       0.00      0.00      0.00         0
+   RH-QUESTION       0.00      0.00      0.00         0
+
+     micro avg       0.72      0.72      0.73        40
+     macro avg       0.28      0.34      0.29        40
+  weighted avg       0.70      0.72      0.71        40
+  
+# Add counts of (pronouns), names, numbers
+
+                precision    recall  f1-score   support
+
+      ANECDOTE       0.50      1.00      0.67         1
+     ASSERTION       0.91      0.91      0.91        33
+FACT-TESTIMONY       0.33      0.25      0.29         4
+  NON-ARGUMENT       0.00      0.00      0.00         1
+    OTHER-FORM       1.00      1.00      1.00         1
+   RH-QUESTION       0.00      0.00      0.00         0
+
+     micro avg       0.82      0.82      0.82        40
+     macro avg       0.46      0.53      0.48        40
+  weighted avg       0.82      0.82      0.82        40
+  
+# All above + POS tagging
+
+                precision    recall  f1-score   support
+
+      ANECDOTE       0.50      1.00      0.67         1
+     ASSERTION       0.82      0.90      0.86        30
+FACT-TESTIMONY       0.33      0.14      0.20         7
+    OTHER-FORM       1.00      1.00      1.00         1
+   RH-QUESTION       1.00      1.00      1.00         1
+
+     micro avg       0.78      0.78      0.78        40
+     macro avg       0.73      0.81      0.74        40
+  weighted avg       0.73      0.78      0.74        40
+  
+# All above + connective count
+
+                precision    recall  f1-score   support
+
+      ANECDOTE       0.50      1.00      0.67         1
+     ASSERTION       0.82      0.90      0.86        30
+FACT-TESTIMONY       0.33      0.12      0.18         8
+    OTHER-FORM       1.00      1.00      1.00         1
+   RH-QUESTION       0.00      0.00      0.00         0
+
+     micro avg       0.75      0.75      0.75        40
+     macro avg       0.53      0.60      0.54        40
+  weighted avg       0.72      0.75      0.72        40
+
+# All above except pronouns on test set
+
+                precision    recall  f1-score   support
+
+     ASSERTION       0.96      0.91      0.93        70
+FACT-TESTIMONY       0.73      0.79      0.76        14
+  NON-ARGUMENT       1.00      1.00      1.00         2
+   RH-QUESTION       0.33      1.00      0.50         1
+
+     micro avg       0.90      0.90      0.90        87
+     macro avg       0.76      0.93      0.80        87
+  weighted avg       0.91      0.90      0.90        87
+
+# All above with pronouns on test set
+
+                precision    recall  f1-score   support
+
+     ASSERTION       0.97      0.92      0.94        71
+FACT-TESTIMONY       0.73      0.85      0.79        13
+  NON-ARGUMENT       1.00      1.00      1.00         2
+   RH-QUESTION       0.33      1.00      0.50         1
+
+     micro avg       0.91      0.91      0.91        87
+     macro avg       0.76      0.94      0.81        87
+  weighted avg       0.93      0.91      0.91        87
+
+# All except connectives on test set
+
+                precision    recall  f1-score   support
+
+     ASSERTION       0.97      0.92      0.94        71
+FACT-TESTIMONY       0.73      0.85      0.79        13
+  NON-ARGUMENT       1.00      1.00      1.00         2
+   RH-QUESTION       0.33      1.00      0.50         1
+
+     micro avg       0.91      0.91      0.91        87
+     macro avg       0.76      0.94      0.81        87
+  weighted avg       0.93      0.91      0.91        87
+
+# All except POS on test set
+
+                precision    recall  f1-score   support
+
+     ASSERTION       0.97      0.94      0.96        69
+FACT-TESTIMONY       0.80      0.86      0.83        14
+  NON-ARGUMENT       1.00      1.00      1.00         2
+   RH-QUESTION       0.67      1.00      0.80         2
+
+     micro avg       0.93      0.93      0.93        87
+     macro avg       0.86      0.95      0.90        87
+  weighted avg       0.94      0.93      0.93        87

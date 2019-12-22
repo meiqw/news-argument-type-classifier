@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<ArgumentationStrategyTask>
+<TEXT><![CDATA[Campbell Newman’s LNP government won power in 2012 in a huge landslide – and polls suggest that most of those gains are expected to be swept away as Queensland politics returns to normality.  
+
+In 2012, the sitting Labor government’s seats in the parliament were cut savagely from 51 to seven. The LNP opposition increased their seats from 34 to 78. In the new parliament, there were seven government members for every member of the opposition and crossbench.  
+
+Since 2012, the LNP has lost two seats to Labor at by-elections, and three other MPs elected for the LNP now sit on the crossbench. Despite these changes, the LNP has a massive majority and a large swing will be required for a change in government.  
+
+Because of the huge swing in 2012, it’s hard to predict which seats will be the key battlegrounds. In a normal election campaign, you would look first at the seats held by the government by the smallest margins (those seats they came closest to losing at the previous election).  
+
+Yet in Queensland, most LNP seats on slim margins are seats traditionally considered to be “safe” Labor seats – if Labor has any chance of taking power, you would expect those seats to fall easily and the election to focus on seats further along the pendulum.  
+
+At the last election, it was estimated that the LNP won 62.8% of the vote after preferences. Recent polls indicate there has been a large swing back to Labor. The most recent Newspoll had Labor and the LNP tied on 50% each.  
+
+These polls suggest that Labor is in with a chance of winning the election, despite the massive number of seats they need to gain. In order to ward off this threat, the LNP will likely need to sacrifice many of its seats in order to focus energy on those seats they can retain.  
+
+Labor needs a uniform swing of approximately 12.5% to win the 36 extra seats they need to win a majority. Current polling suggests that Labor is close to that number, and this suggests that most of the seats that will be key battlegrounds are seats the LNP now holds by margins of 10-15%, but there will be seats that swing more or less than the average.  
+
+If you focus on those with margins of between 10% and 15%, there are a smattering of seats in Brisbane, as well as four seats on the Gold Coast, one on the Sunshine Coast, one in Townsville and two rural seats near Mackay.  
+
+In addition, the LNP will be fighting on another front against populist and right-wing independents and minor parties. The Palmer United Party and Katter’s Australian Party will both be running hard. KAP now holds three seats, and there are four independents in the Parliament.  
+
+While many seats will be in play, Ashgrove in northern Brisbane – Campbell Newman’s seat – is likely to be the focus of the campaign.  
+
+The premier won the seat off Kate Jones in 2012. Newman had never held a seat in parliament before winning power in 2012 – he made his name as lord mayor of Brisbane. Jones had been a minister in the Bligh government, and was a high- profile target.  
+
+In 2012, Newman won Ashgrove with a 12.8% swing, but holds the seat by a margin of only 5.7% – half as big as the expected Labor swing. Local polling suggests that Newman is trailing in local Ashgrove polls behind Jones, who is aiming to win back her former seat.  
+
+If Newman is seen to be in danger of losing his seat, his party’s campaign may struggle to answer questions about who would lead a re-elected LNP government. With Labor needing 5.7% to win Ashgrove, and 12.5% to win the overall election, it’s entirely conceivable that the government could be re-elected without Newman in the lead. That scenario may help Labor reach the vote it needs to win back power.]]></TEXT>
+<TAGS>
+<ASSERTION id="A0" spans="595~713" text="Despite these changes, the LNP has a massive majority and a large swing will be required for a change in government.  "  />
+<ASSERTION id="A1" spans="715~814" text="Because of the huge swing in 2012, it’s hard to predict which seats will be the key battlegrounds. "  />
+<ASSERTION id="A2" spans="814~993" text="In a normal election campaign, you would look first at the seats held by the government by the smallest margins (those seats they came closest to losing at the previous election)."  />
+<ASSERTION id="A3" spans="884~1258" text="by the government by the smallest margins (those seats they came closest to losing at the previous election).    Yet in Queensland, most LNP seats on slim margins are seats traditionally considered to be “safe” Labor seats – if Labor has any chance of taking power, you would expect those seats to fall easily and the election to focus on seats further along the pendulum.  "  />
+<ASSERTION id="A4" spans="1352~1419" text=" Recent polls indicate there has been a large swing back to Labor. "  />
+<ASSERTION id="A5" spans="1487~1617" text="These polls suggest that Labor is in with a chance of winning the election, despite the massive number of seats they need to gain."  />
+<ASSERTION id="A6" spans="1618~1766" text="In order to ward off this threat, the LNP will likely need to sacrifice many of its seats in order to focus energy on those seats they can retain.  "  />
+<ASSERTION id="A7" spans="1767~1873" text=" Labor needs a uniform swing of approximately 12.5% to win the 36 extra seats they need to win a majority."  />
+<ASSERTION id="A8" spans="1874~2124" text="Current polling suggests that Labor is close to that number, and this suggests that most of the seats that will be key battlegrounds are seats the LNP now holds by margins of 10-15%, but there will be seats that swing more or less than the average.  "  />
+<ASSERTION id="A9" spans="2125~2350" text=" If you focus on those with margins of between 10% and 15%, there are a smattering of seats in Brisbane, as well as four seats on the Gold Coast, one on the Sunshine Coast, one in Townsville and two rural seats near Mackay.  "  />
+<ASSERTION id="A10" spans="2352~2470" text="In addition, the LNP will be fighting on another front against populist and right-wing independents and minor parties."  />
+<ASSERTION id="A11" spans="2472~2551" text="he Palmer United Party and Katter’s Australian Party will both be running hard."  />
+<ASSERTION id="A12" spans="2633~2766" text="While many seats will be in play, Ashgrove in northern Brisbane – Campbell Newman’s seat – is likely to be the focus of the campaign."  />
+<ASSERTION id="A13" spans="3159~3286" text="Local polling suggests that Newman is trailing in local Ashgrove polls behind Jones, who is aiming to win back her former seat."  />
+<ASSERTION id="A14" spans="3290~3447" text="If Newman is seen to be in danger of losing his seat, his party’s campaign may struggle to answer questions about who would lead a re-elected LNP government."  />
+<ASSERTION id="A15" spans="3447~3621" text=" With Labor needing 5.7% to win Ashgrove, and 12.5% to win the overall election, it’s entirely conceivable that the government could be re-elected without Newman in the lead."  />
+<ASSERTION id="A16" spans="3622~3693" text="That scenario may help Labor reach the vote it needs to win back power."  />
+<FACT-TESTIMONY id="F0" spans="0~192" text="Campbell Newman’s LNP government won power in 2012 in a huge landslide – and polls suggest that most of those gains are expected to be swept away as Queensland politics returns to normality.  "  />
+<FACT-TESTIMONY id="F1" spans="194~293" text="In 2012, the sitting Labor government’s seats in the parliament were cut savagely from 51 to seven."  />
+<FACT-TESTIMONY id="F2" spans="294~349" text="The LNP opposition increased their seats from 34 to 78."  />
+<FACT-TESTIMONY id="F3" spans="350~462" text="In the new parliament, there were seven government members for every member of the opposition and crossbench.   "  />
+<FACT-TESTIMONY id="F4" spans="463~594" text="Since 2012, the LNP has lost two seats to Labor at by-elections, and three other MPs elected for the LNP now sit on the crossbench."  />
+<FACT-TESTIMONY id="F5" spans="1260~1352" text="At the last election, it was estimated that the LNP won 62.8% of the vote after preferences."  />
+<FACT-TESTIMONY id="F6" spans="1418~1483" text=" The most recent Newspoll had Labor and the LNP tied on 50% each."  />
+<FACT-TESTIMONY id="F7" spans="2552~2630" text="KAP now holds three seats, and there are four independents in the Parliament. "  />
+<FACT-TESTIMONY id="F8" spans="2937~3020" text="Jones had been a minister in the Bligh government, and was a high- profile target. "  />
+<ANECDOTE id="AN0" spans="2770~2818" text="The premier won the seat off Kate Jones in 2012."  />
+<ANECDOTE id="AN1" spans="2819~2936" text="Newman had never held a seat in parliament before winning power in 2012 – he made his name as lord mayor of Brisbane."  />
+<ANECDOTE id="AN2" spans="3022~3158" text=" In 2012, Newman won Ashgrove with a 12.8% swing, but holds the seat by a margin of only 5.7% – half as big as the expected Labor swing."  />
+</TAGS>
+</ArgumentationStrategyTask>

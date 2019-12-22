@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<ArgumentationStrategyTask>
+<TEXT><![CDATA[(Charles Bush)  
+
+The holidays are my favorite time of year. As my home fills with the joy and laughter of my six children and four grandchildren, I’m reminded of how lucky I am to have the most wonderful job in the world – being a mother and grandmother. It’s the single most important thing I’ve done with my life, and I know just how important the job is because I am constantly reminded of what an influence my own mother was in my life. My mother Mieke survived three and a half horrific years in a Japanese concentration camp during World War II. During that time, she focused all of her energy on caring for fellow prisoners who were far worse off than she was.  
+
+When I think of my mother, I think of the selfless love she had not only for my family, but for complete strangers as well. She’s with me every day as I challenge myself to live my life in the same way. I am so blessed to have a wonderful family and career that I love, and I see my mother in all of those things. I see her every day in the faces of my children and grandchildren. I am reminded of her each time a single white feather floats through the air – whether on good days or bad days – and I have to smile knowing that she is always with me. Her love is reflected in my work as an actor, artist and philanthropist. Without her example, I wouldn’t be who I am today and while I miss her endlessly during the holidays, I know that if I live my life the way she did, I will make the same impact on my family and that is truly a gift.  
+
+ADVERTISEMENT  
+
+ADVERTISEMENT]]></TEXT>
+<TAGS>
+<ASSERTION id="A0" spans="18~60" text="The holidays are my favorite time of year."  />
+<ASSERTION id="A1" spans="61~255" text="As my home fills with the joy and laughter of my six children and four grandchildren, I’m reminded of how lucky I am to have the most wonderful job in the world – being a mother and grandmother."  />
+<ASSERTION id="A2" spans="256~441" text="It’s the single most important thing I’ve done with my life, and I know just how important the job is because I am constantly reminded of what an influence my own mother was in my life."  />
+<ASSERTION id="A3" spans="672~795" text="When I think of my mother, I think of the selfless love she had not only for my family, but for complete strangers as well."  />
+<ASSERTION id="A4" spans="796~874" text="She’s with me every day as I challenge myself to live my life in the same way."  />
+<ASSERTION id="A5" spans="875~985" text="I am so blessed to have a wonderful family and career that I love, and I see my mother in all of those things."  />
+<ASSERTION id="A6" spans="986~1052" text="I see her every day in the faces of my children and grandchildren."  />
+<ASSERTION id="A7" spans="1053~1222" text="I am reminded of her each time a single white feather floats through the air – whether on good days or bad days – and I have to smile knowing that she is always with me."  />
+<ASSERTION id="A8" spans="1223~1295" text="Her love is reflected in my work as an actor, artist and philanthropist."  />
+<ASSERTION id="A9" spans="1296~1512" text="Without her example, I wouldn’t be who I am today and while I miss her endlessly during the holidays, I know that if I live my life the way she did, I will make the same impact on my family and that is truly a gift. "  />
+<FACT-TESTIMONY id="F0" spans="441~552" text=" My mother Mieke survived three and a half horrific years in a Japanese concentration camp during World War II."  />
+<FACT-TESTIMONY id="F1" spans="553~669" text="During that time, she focused all of her energy on caring for fellow prisoners who were far worse off than she was. "  />
+</TAGS>
+</ArgumentationStrategyTask>

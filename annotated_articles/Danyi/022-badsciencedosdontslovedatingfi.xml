@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<ArgumentationStrategyTask>
+<TEXT><![CDATA[You would be forgiven for thinking that centuries of human society would mean that we were now at a stage where we didn’t need help finding another human being whom we could bear to be around and who wanted to get naked with us. But you would be mistaken. It seems as time progresses we need more and more tactics for tricking someone into a relationship. Some people need pickup artists to help them manipulate women, others think “science” will provide the 21st-century love potion.  
+
+In the latest use of scientists’ time, they have found that eating dessert on a date increases the likelihood that there’ll be a second date. This research is flawed on a number of levels, not least because you shouldn’t have a meal on a first date: too many food-related potential disasters and not enough alcohol. Plus, if you’re on a date with a diabetic, you could be responsible for putting them into a coma, which is likely to hamper the relationship.  
+
+Instead, here are some further helpful dos and don’ts when it comes to dating:  
+
+1) Don’t call it dating. It’s a horrible word and a horrible concept. Instead, think of it as going for a drink or to a gallery or whatever, and there being someone else there. This relieves the pressure to be attractive and the crushing disappointment that comes with it.  
+
+2) Do get drunk. There is no downside to this. OK, there are a couple of downsides. The trick is to get drunk enough to be hilariously funny, intelligent and confident but not so drunk that you lower your standards and impair your ability to get the hell out of there if it becomes boring or creepy. Even if you get so drunk that you dance on a table, start crying or vomit into your lap, you can always blame the booze. If you don’t drink, then I’m afraid there is nothing I can do for you: best of luck.  
+
+3) Don’t be too self-deprecating. It is a good idea to show that you don’t take yourself too seriously and it can be endearing, but keep it to the stories about giving a presentation with your skirt/shirt tucked into your knickers/Y-fronts or when you had a conversation about nobody taking you seriously while you had mustard on your face. Save the stories about when you soiled yourself until at least the fourth date. You don’t want to waste these comedy gold stories on someone you might only see a couple of times. When it comes to defecating stories, you don’t want to unload your A-list stories on someone who might not be worthy. This is a journey of discovery, so temporarily hold some mystery back.  
+
+4) Do find out their politics. Life is too short to waste on someone who thinks Hitler had a point. It is good to surround yourself with people with different views to your own because arguments are fun, but everyone has their red-line issues and you might as well shake them down on these before you spend too much on booze. So try to turn the conversation round to Ched Evans, free speech or the order of greatness of the Star Wars films (which for reference is: episode V, episode IV, Episode VI, episodes I-III don’t exist and should never be mentioned). If you feel they’re wildly wrong on any of these subjects, shriek that you’ve left the oven on and run.  
+
+5) Don’t talk about your ex(es) all night. You may like to use every opportunity to talk about the profound personality flaws of your former lovers, but it’s rather ungallant and makes you look slightly like a psychopath. You want to hint at the fact that you have been in a relationship before, as it implies that there are human beings who don’t find your regular presence completely loathsome. But make sure you don’t get a nervous tick when you talk about it or start stabbing the table – these are what are known as “giveaways”.  
+
+In general, we have to be a little wary of claims that science holds the key to love, as many myths abound. For instance, pheromones don’t work in humans. Dopamine is released when you’re in love and when you eat chocolate, but also when you take cocaine and smoke fags, and the latter two may very well hamper your success at relationships. Other research shows that you increase your chances of falling in love if you ask just 36 questions and then stare into their eyes for four minutes. Which looks a lot like just showing an interest in someone and finding out you have things in common, so not exactly rocket science.]]></TEXT>
+<TAGS>
+<ASSERTION id="A0" spans="0~255" text="You would be forgiven for thinking that centuries of human society would mean that we were now at a stage where we didn’t need help finding another human being whom we could bear to be around and who wanted to get naked with us. But you would be mistaken."  />
+<ASSERTION id="A1" spans="256~355" text="It seems as time progresses we need more and more tactics for tricking someone into a relationship."  />
+<ASSERTION id="A2" spans="356~485" text="Some people need pickup artists to help them manipulate women, others think “science” will provide the 21st-century love potion. "  />
+<ASSERTION id="A3" spans="488~629" text="In the latest use of scientists’ time, they have found that eating dessert on a date increases the likelihood that there’ll be a second date."  />
+<ASSERTION id="A4" spans="629~803" text=" This research is flawed on a number of levels, not least because you shouldn’t have a meal on a first date: too many food-related potential disasters and not enough alcohol."  />
+<ASSERTION id="A5" spans="804~947" text="Plus, if you’re on a date with a diabetic, you could be responsible for putting them into a coma, which is likely to hamper the relationship.  "  />
+<ASSERTION id="A7" spans="1056~1100" text="It’s a horrible word and a horrible concept."  />
+<ASSERTION id="A8" spans="1101~1207" text="Instead, think of it as going for a drink or to a gallery or whatever, and there being someone else there."  />
+<ASSERTION id="A9" spans="1208~1305" text="This relieves the pressure to be attractive and the crushing disappointment that comes with it.  "  />
+<ASSERTION id="A10" spans="949~1026" text="Instead, here are some further helpful dos and don’ts when it comes to dating"  />
+<ASSERTION id="A11" spans="1324~1353" text="There is no downside to this."  />
+<ASSERTION id="A12" spans="1354~1390" text="OK, there are a couple of downsides."  />
+<ASSERTION id="A13" spans="1391~1606" text="The trick is to get drunk enough to be hilariously funny, intelligent and confident but not so drunk that you lower your standards and impair your ability to get the hell out of there if it becomes boring or creepy."  />
+<ASSERTION id="A14" spans="1607~1727" text="Even if you get so drunk that you dance on a table, start crying or vomit into your lap, you can always blame the booze."  />
+<ASSERTION id="A15" spans="1728~1814" text="If you don’t drink, then I’m afraid there is nothing I can do for you: best of luck.  "  />
+<ASSERTION id="A16" spans="1850~2335" text="It is a good idea to show that you don’t take yourself too seriously and it can be endearing, but keep it to the stories about giving a presentation with your skirt/shirt tucked into your knickers/Y-fronts or when you had a conversation about nobody taking you seriously while you had mustard on your face. Save the stories about when you soiled yourself until at least the fourth date. You don’t want to waste these comedy gold stories on someone you might only see a couple of times."  />
+<ASSERTION id="A17" spans="2336~2454" text="When it comes to defecating stories, you don’t want to unload your A-list stories on someone who might not be worthy. "  />
+<ASSERTION id="A18" spans="2453~2526" text=" This is a journey of discovery, so temporarily hold some mystery back.  "  />
+<ASSERTION id="A19" spans="2559~2627" text="Life is too short to waste on someone who thinks Hitler had a point."  />
+<ASSERTION id="A20" spans="2628~2853" text="It is good to surround yourself with people with different views to your own because arguments are fun, but everyone has their red-line issues and you might as well shake them down on these before you spend too much on booze."  />
+<ASSERTION id="A21" spans="2854~3086" text="So try to turn the conversation round to Ched Evans, free speech or the order of greatness of the Star Wars films (which for reference is: episode V, episode IV, Episode VI, episodes I-III don’t exist and should never be mentioned)."  />
+<ASSERTION id="A22" spans="3087~3190" text="If you feel they’re wildly wrong on any of these subjects, shriek that you’ve left the oven on and run."  />
+<ASSERTION id="A23" spans="3237~3415" text="You may like to use every opportunity to talk about the profound personality flaws of your former lovers, but it’s rather ungallant and makes you look slightly like a psychopath."  />
+<ASSERTION id="A24" spans="3416~3590" text="You want to hint at the fact that you have been in a relationship before, as it implies that there are human beings who don’t find your regular presence completely loathsome."  />
+<ASSERTION id="A25" spans="3591~3729" text="But make sure you don’t get a nervous tick when you talk about it or start stabbing the table – these are what are known as “giveaways”.  "  />
+<ASSERTION id="A26" spans="3731~3838" text="In general, we have to be a little wary of claims that science holds the key to love, as many myths abound."  />
+<ASSERTION id="A27" spans="3885~4072" text=" Dopamine is released when you’re in love and when you eat chocolate, but also when you take cocaine and smoke fags, and the latter two may very well hamper your success at relationships."  />
+<ASSERTION id="A28" spans="4222~4354" text="Which looks a lot like just showing an interest in someone and finding out you have things in common, so not exactly rocket science."  />
+<FACT-TESTIMONY id="F0" spans="3839~3886" text="For instance, pheromones don’t work in humans. "  />
+<FACT-TESTIMONY id="F1" spans="4073~4221" text="Other research shows that you increase your chances of falling in love if you ask just 36 questions and then stare into their eyes for four minutes."  />
+<OTHER-FORM id="O0" spans="1034~1055" text="Don’t call it dating."  />
+<OTHER-FORM id="O1" spans="1309~1324" text=" Do get drunk. "  />
+<OTHER-FORM id="O2" spans="1819~1849" text="Don’t be too self-deprecating."  />
+<OTHER-FORM id="O3" spans="2531~2558" text="Do find out their politics."  />
+<OTHER-FORM id="O4" spans="3197~3236" text="Don’t talk about your ex(es) all night."  />
+</TAGS>
+</ArgumentationStrategyTask>

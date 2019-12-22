@@ -1,1 +1,1 @@
-# news-argument-type-classifier
+# ling140-argumentation-strategy

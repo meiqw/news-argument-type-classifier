@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<ArgumentationStrategyTask>
+<TEXT><![CDATA[In the film, "Girl Interrupted," Winona Ryder plays an 18-year-old who enters a mental institution for what is diagnosed as borderline personality disorder. The year is 1967 and the country is in turmoil over Vietnam and civil rights. While lying on her bed one night and watching TV, she sees a news report about a demonstration. The narrator says something that might apply to today\'s turmoil: "We live in a time of doubt. The institutions we once trusted no longer seem reliable."  
+
+As 2014 ends, the stock market is at record highs but our traditional institutions and self-confidence are in decline.  
+
+ADVERTISEMENT  
+
+ADVERTISEMENT  
+
+A Pew Research Center study confirms one trend that has been obvious over several years. The "typical" American family is no longer typical. Just 46 percent of American children now live in homes with their married, heterosexual parents. Five percent have no parents at home. They most likely are living with grandparents, says the study.  
+
+These startling figures about the decline of the American family contrast with the year 1960 when 73 percent of American children lived in traditional families.  
+
+A major contributor to this trend has been the assault on marriage and other institutions by the Baby Boom generation. It was that generation that promoted cohabitation, no-fault divorce, hatred of the police (they called them "pigs" then, too) and disdain for the military and America, spawned not just by the Vietnam War but a life of relative ease unknown to their parents.  
+
+The culture bomb dropped by the boomers created fallout still being felt today. The two-plus generations born since the Sixties have been infused with the notion of entitlement, victimhood, envy and greed. Since the elimination of the draft, young people are no longer expected to serve in the military and so most of them pursue whatever goals they wish with no expectation they should give something back to their country. It\'s one possible explanation for why we can no longer seem to win wars.  
+
+History warns us what happens when empires refuse to teach known values that strengthen societies and help protect them from enemies intent on their destruction.  
+
+The late British diplomat Sir John Glubb wrote a book called "The Fate of Empires and Search For Survival." Glubb noted the average age of empires since the time of ancient Assyria (859-612 B.C.) is 250 years. Only the Mameluke Empire in Egypt and the Levant (1250-1517) made it as far as 267 years. America is 238 years old and is exhibiting signs of decline.  
+
+All empires begin, writes Glubb, with the age of pioneers, followed by ages of conquest, commerce, affluence, intellect and decadence. America appears to have reached the age of decadence, which Glubb defines as marked by "defensiveness, pessimism, materialism, frivolity, an influx of foreigners, the welfare state, (and) a weakening of religion."  
+
+Decadence, he writes, "is due to: Too long a period of wealth and power, selfishness, love of money (and) the loss of a sense of duty."  
+
+Do these not define America at the end of 2014? Glubb says the 250-year average of empires has not varied in 3,000 years, but we don\'t learn from history because "our studies are brief and prejudiced." He means they are mostly about one\'s own country.  
+
+It will take more than a new Congress in 2015 and a new president in 2017 to save us from the fate of other empires. It will take a revival of the American spirit, and that can only come through changed attitudes towards our institutions and each other.]]></TEXT>
+<TAGS>
+<ASSERTION id="A0" spans="331~484" text="The narrator says something that might apply to today\&apos;s turmoil: &quot;We live in a time of doubt. The institutions we once trusted no longer seem reliable.&quot;"  />
+<ASSERTION id="A1" spans="488~606" text="As 2014 ends, the stock market is at record highs but our traditional institutions and self-confidence are in decline."  />
+<ASSERTION id="A2" spans="733~784" text="The &quot;typical&quot; American family is no longer typical."  />
+<ASSERTION id="A3" spans="1150~1268" text="A major contributor to this trend has been the assault on marriage and other institutions by the Baby Boom generation."  />
+<ASSERTION id="A4" spans="1269~1526" text="It was that generation that promoted cohabitation, no-fault divorce, hatred of the police (they called them &quot;pigs&quot; then, too) and disdain for the military and America, spawned not just by the Vietnam War but a life of relative ease unknown to their parents."  />
+<ASSERTION id="A5" spans="1530~1609" text="The culture bomb dropped by the boomers created fallout still being felt today."  />
+<ASSERTION id="A6" spans="1610~1735" text="The two-plus generations born since the Sixties have been infused with the notion of entitlement, victimhood, envy and greed."  />
+<ASSERTION id="A7" spans="1736~1954" text="Since the elimination of the draft, young people are no longer expected to serve in the military and so most of them pursue whatever goals they wish with no expectation they should give something back to their country."  />
+<ASSERTION id="A8" spans="1955~2028" text="It\&apos;s one possible explanation for why we can no longer seem to win wars."  />
+<ASSERTION id="A9" spans="2032~2193" text="History warns us what happens when empires refuse to teach known values that strengthen societies and help protect them from enemies intent on their destruction."  />
+<ASSERTION id="A10" spans="2497~2557" text="America is 238 years old and is exhibiting signs of decline."  />
+<ASSERTION id="A11" spans="2696~2909" text="America appears to have reached the age of decadence, which Glubb defines as marked by &quot;defensiveness, pessimism, materialism, frivolity, an influx of foreigners, the welfare state, (and) a weakening of religion.&quot;"  />
+<ASSERTION id="A12" spans="3255~3305" text="He means they are mostly about one\&apos;s own country."  />
+<ASSERTION id="A13" spans="3309~3425" text="It will take more than a new Congress in 2015 and a new president in 2017 to save us from the fate of other empires."  />
+<ASSERTION id="A14" spans="3426~3562" text="It will take a revival of the American spirit, and that can only come through changed attitudes towards our institutions and each other."  />
+<FACT-TESTIMONY id="F0" spans="0~156" text="In the film, &quot;Girl Interrupted,&quot; Winona Ryder plays an 18-year-old who enters a mental institution for what is diagnosed as borderline personality disorder."  />
+<FACT-TESTIMONY id="F1" spans="157~234" text="The year is 1967 and the country is in turmoil over Vietnam and civil rights."  />
+<FACT-TESTIMONY id="F2" spans="235~330" text="While lying on her bed one night and watching TV, she sees a news report about a demonstration."  />
+<FACT-TESTIMONY id="F3" spans="644~732" text="A Pew Research Center study confirms one trend that has been obvious over several years."  />
+<FACT-TESTIMONY id="F4" spans="785~881" text="Just 46 percent of American children now live in homes with their married, heterosexual parents."  />
+<FACT-TESTIMONY id="F5" spans="882~919" text="Five percent have no parents at home."  />
+<FACT-TESTIMONY id="F6" spans="920~982" text="They most likely are living with grandparents, says the study."  />
+<FACT-TESTIMONY id="F7" spans="986~1146" text="These startling figures about the decline of the American family contrast with the year 1960 when 73 percent of American children lived in traditional families."  />
+<FACT-TESTIMONY id="F8" spans="2197~2304" text="The late British diplomat Sir John Glubb wrote a book called &quot;The Fate of Empires and Search For Survival.&quot;"  />
+<FACT-TESTIMONY id="F9" spans="2305~2406" text="Glubb noted the average age of empires since the time of ancient Assyria (859-612 B.C.) is 250 years."  />
+<FACT-TESTIMONY id="F10" spans="2407~2496" text="Only the Mameluke Empire in Egypt and the Levant (1250-1517) made it as far as 267 years."  />
+<FACT-TESTIMONY id="F11" spans="2561~2695" text="All empires begin, writes Glubb, with the age of pioneers, followed by ages of conquest, commerce, affluence, intellect and decadence."  />
+<FACT-TESTIMONY id="F12" spans="2913~3048" text="Decadence, he writes, &quot;is due to: Too long a period of wealth and power, selfishness, love of money (and) the loss of a sense of duty.&quot;"  />
+<FACT-TESTIMONY id="F13" spans="3100~3254" text="Glubb says the 250-year average of empires has not varied in 3,000 years, but we don\&apos;t learn from history because &quot;our studies are brief and prejudiced.&quot;"  />
+<RH-QUESTION id="R0" spans="3052~3099" text="Do these not define America at the end of 2014?"  />
+<NON-ARGUMENT id="N0" spans="610~623" text="ADVERTISEMENT"  />
+<NON-ARGUMENT id="N1" spans="627~640" text="ADVERTISEMENT"  />
+</TAGS>
+</ArgumentationStrategyTask>
